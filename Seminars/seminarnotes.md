@@ -15,12 +15,12 @@ Answers:
 1. Requirements Engineering for the development of complex software systems for large scale industrial project is Large Scale Requirements Engineering.
 
 2. Challenges faced in large scale requirements engineering according to [1] are:
-    1. Large number of customer requirements
-    2. Formal interface to customer
-    3. Management of customer expectations
-    4. Changing Technology
-    5. Distributed teams
-    6. Traceability
-    7. Resource fluctuation
+    1. Large number of customer requirements: Analyzing, Specifying,and managing the requirements at a large scale is burdensome and challenging to the organizations.
+    2. Formal interface to customer: Communication with the customer is often formal and the number of meetings is very less with them being a huge number in the large scale projects. 
+    3. Management of customer expectations: The expectaitons of the customer have to be satisified by the organization by showing a prototype of the model being developed. This over a large scale has to be propoerly managed.
+    4. Changing Technology: A project ususally spans for several years. During this time technology changes and this has to be taken into account and addressed.
+    5. Distributed teams: Manay projcts today ae globally distributed. Various teams from different geograpical locations work to finish the project. Handling and coordinating these teams can prove challenging.
+    6. Traceability: Tracing out the requirements is a difficult task in this context as it requires large amount of time and human effort.
+    7. Resource fluctuation: Team members join and leave the project during the development of the project. Knowledge transfer for the team members like information regarding the deadlines, deliverables, etc is a challenge.
 
 3. The order of magnitude on the number of requirements with repsect to Large scale requirements engineering is approximately '1000' as stated by B. Regnell et al. in their article [2].
