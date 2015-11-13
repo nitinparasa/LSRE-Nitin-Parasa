@@ -23,4 +23,4 @@ Answers:
     6. Traceability: Tracing out the requirements is a difficult task in this context as it requires large amount of time and human effort.
     7. Resource fluctuation: Team members join and leave the project during the development of the project. Knowledge transfer for the team members like information regarding the deadlines, deliverables, etc is a challenge.
 
-3. The order of magnitude on the number of requirements with repsect to Large scale requirements engineering is approximately '1000' as stated by B. Regnell et al. in their article [2].
+3. The order of magnitude on the number of requirements addressed in a particular project with repsect to Large scale requirements engineering is of the order of 1000 as stated by B. Regnell et al. in their article [2].
