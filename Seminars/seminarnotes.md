@@ -19,7 +19,7 @@ Answers:
     2. Formal interface to customer: Communication with the customer is often formal and the number of meetings is very less with them being a huge number in the large scale projects. 
     3. Management of customer expectations: The expectaitons of the customer have to be satisified by the organization by showing a prototype of the model being developed. This over a large scale has to be propoerly managed.
     4. Changing Technology: A project ususally spans for several years. During this time technology changes and this has to be taken into account and addressed.
-    5. Distributed teams: Manay projcts today ae globally distributed. Various teams from different geograpical locations work to finish the project. Handling and coordinating these teams can prove challenging.
+    5. Distributed teams: Many projcts today are globally distributed. Various teams from different geograpical locations work to finish the project. Handling and coordinating these teams can prove challenging.
     6. Traceability: Tracing out the requirements is a difficult task in this context as it requires large amount of time and human effort.
     7. Resource fluctuation: Team members join and leave the project during the development of the project. Knowledge transfer for the team members like information regarding the deadlines, deliverables, etc is a challenge.
 
