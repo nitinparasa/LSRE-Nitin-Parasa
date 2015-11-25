@@ -60,7 +60,7 @@ Roadmap is a list of the product releases that are determined to come over a tim
 2. Provision of a mechanism that helps in forecasting the technology devlopments in the target areas in the years to come.
 3. A framework to plan and coordinate the devlopmental activities in an organization.
 
-In lrge scale context the process of Roadmapping can typically take place in four phases.
+In large scale context the process of Roadmapping can typically take place in four phases.
 1. Initiation Phase: This phase involves activities like forming the roadmap team. Determining the strategy and the pre-conditions and finally setting the context.
 2. Preparation phase: This phase involves activities like prioritizing the teams, selecting them and then determining a time schedule. Then a roadmap is created.
 3. Finalization phase: In this pahse the developed roadmap is validated. Then communication takes place both internally and externally i.e within the organization and with the customer.
