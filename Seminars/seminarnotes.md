@@ -53,3 +53,15 @@ Question 3: What is Technical Product Management?
 Technical Product Management is the process of defining market requirements and packaging these features into various releases. This involves a close interaction with the development team, key customers, market analysts, etc.
 
 Question 4: What is roadmapping? How can you do it large scale?
+
+Roadmap is a list of the product releases that are determined to come over a time frame of three to five years. Especially for large scale or market driven requirements engineering where the costs and cosequences of a vendor change being large it is better to involve the customer in the roadmap decision-making. Roadmaps help organizations identify important objectives and highlights the resources required to achieve those objectives. Roadmapping has many uses both for the corporate and industry level organizations. They are:
+
+1. Development of a consesnsus about a set of needs and the resources required to fulfil those needs.
+2. Provision of a mechanism that helps in forecasting the technology devlopments in the target areas in the years to come.
+3. A framework to plan and coordinate the devlopmental activities in an organization.
+
+In lrge scale context the process of Roadmapping can typically take place in four phases.
+1. Initiation Phase: This phase involves activities like forming the roadmap team. Determining the strategy and the pre-conditions and finally setting the context.
+2. Preparation phase: This phase involves activities like prioritizing the teams, selecting them and then determining a time schedule. Then a roadmap is created.
+3. Finalization phase: In this pahse the developed roadmap is validated. Then communication takes place both internally and externally i.e within the organization and with the customer.
+4. Follow-Up phase: Here the roadmap is periodically reviewed and updates are made.
