@@ -64,16 +64,18 @@ Paper 4:
 
 Seminar 2:
 
-[1] Regnell & Brinkkemper “Market-Driven Requirements Engineering for Software Products” (Chapter 13 in Engineering and Management
+[1]Weerd & Brinkkemper “Towards a reference framework for software product management”
+[2] Regnell & Brinkkemper “Market-Driven Requirements Engineering for Software Products” (Chapter 13 in Engineering and Management
 of Software Requirements)
 
 Question 3: What is Technical Product Management?
 
+According to [1]:
 Technical Product Management is the process of defining market requirements and packaging these features into various releases. This involves a close interaction with the development team, key customers, market analysts, etc.
 
 Question 4: What is roadmapping? How can you do it large scale?
 
-Roadmap is a list of the product releases that are determined to come over a time frame of three to five years. Especially for large scale or market driven requirements engineering where the costs and cosequences of a vendor change being large it is better to involve the customer in the roadmap decision-making. Roadmaps help organizations identify important objectives and highlights the resources required to achieve those objectives. Roadmapping has many uses both for the corporate and industry level organizations. They are[1]:
+Roadmap is a list of the product releases that are determined to come over a time frame of three to five years. Especially for large scale or market driven requirements engineering where the costs and cosequences of a vendor change being large it is better to involve the customer in the roadmap decision-making[2]. Roadmaps help organizations identify important objectives and highlights the resources required to achieve those objectives. Roadmapping has many uses both for the corporate and industry level organizations. They are:
 
 1. Development of a consesnsus about a set of needs and the resources required to fulfil those needs.
 2. Provision of a mechanism that helps in forecasting the technology devlopments in the target areas in the years to come.
