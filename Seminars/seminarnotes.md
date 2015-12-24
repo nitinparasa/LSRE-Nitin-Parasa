@@ -90,3 +90,7 @@ In large scale context the process of Roadmapping can typically take place in fo
 2. Preparation phase: This phase involves activities like prioritizing the teams, selecting them and then determining a time schedule. Then a roadmap is created.
 3. Finalization phase: In this pahse the developed roadmap is validated. Then communication takes place both internally and externally i.e within the organization and with the customer.
 4. Follow-Up phase: Here the roadmap is periodically reviewed and updates are made.
+
+Summaries:
+
+Paper 1: This article stresses on mitigating the challenges related to making different requirements comparable in the development organizations. The authors propose a model named as Requirements Abstraction Model (RAM) with four abstraction levels as a response to the industrial needs. Requirements can be placed on different levels supporting abstraction and breakdown of requirements.
