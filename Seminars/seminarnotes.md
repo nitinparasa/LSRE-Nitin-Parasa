@@ -68,6 +68,10 @@ Seminar 2:
 [2] Regnell & Brinkkemper “Market-Driven Requirements Engineering for Software Products” (Chapter 13 in Engineering and Management
 of Software Requirements)
 
+Question 2: What tools are available for continuous integration?
+
+There are three popularly used tools for Continuous Integaration. They are Apache's Continuum, Hudson and Cruise Control (CC). All the tools are open source and the users can build software and test them as configured. Hudson and Continuum support only Java based softwares but Cruise Control supports both Java and .Net based softwares.
+
 Question 3: What is Technical Product Management?
 
 According to [1]:
