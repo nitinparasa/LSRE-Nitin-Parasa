@@ -165,3 +165,42 @@ In this cost-value approach to prioritizing the requirements 5 steps are followe
 
 Two case studies have been briefly described by the authors in this article which have used this method for prioritizing their requirements. The three sections of the cost-value graph are nothing but the requirements with a high ratio of value-to-cost are placed in High region and similarly for the other two. One main thing the authors did not consider in this approach is the dependency that exists between the requirements. Usually there exists a lot of complex dependencies between these requirements and this has to be considered too in the creation of working of this tool.    
 
+Seminar 3: 
+
+Questions
+
+1. Boston Matrix?
+
+1. Boston Matrix?
+	
+	It is an informal marketing tool used by companies for the analysis and the management of products. This tool was developed by the Boston Consulting Group in 1970's. Both market share and market growth are considered to identify where the product is currently standing and the rightful actions that have to be taken to reach the required state. Market share could be the percentage of market the organization has acheived. The impact of market share an market growth in relation to a product affecting the business of the organization can be depicted in four categories. They are: 
+	
+
+1. Dogs: This is the phase of a product lyinh in low market growth and low market share problem. They eat up most of the money the organization spends on a product and shows no sings of development or fetch money to the company.
+2. Cash Cows: The products lying in this region have high market share with low market growth. This explains that the organization maintianing these products need not have to spend much on enhacing this to the present market conditions but can extract all the revenue as a result of customers using it. Best thing the companies can do with such prodcts is that milk them as longs as they can and eventually it loses its legacy.  
+3. Question Marks(problem children): These are the products that grow with the increasing demands of the market but generate very low cash because of the lack of market share. Using apt approaches the organizations could turn these products into either stars or cash cows. 
+4. Stars: These are the product which form the ideal combination of high market share and simultaneously growing market.
+	
+According to study there are four strategies for using Boston Matrix. They are: 
+	1. BUild market shares
+	2. Hold or maintain the same level
+	3. Try to reduce the investment and simultaneously increase cash flow and profit
+	4. Stop investing to remove dogs and start investing in other units which are benefitial for the organization.
+
+Seminar 4: 
+
+Summaries:
+
+Paper 1:The article [1] by Krzysztof Wnuk et al. presents an industrial case study in large scale context on a technique called the Feature Survival Chart visualizes the scope changes being implemented by the companies in a project for a particular release. With a huge database of requirements associated for a typical large scale project scoping refers to the selection of a subset of these requirements for a typical release. This is often considered as a crucial activity for achieving economic benefits. Another issue is that companies find it hard to visualize these bunch of requirements and prioritise the requirements for a release. Another drawback is that the present requirement management tools do not support to carry out this activity. Hence as a remedy the authors of this article present this technique of Feature Survival Chart (FSC). 
+
+One of the companies being investigated in this study follows a stage-gate approach to software development. There are Milestones and Tollgates to control the progress of the project. They set up 4 milestones for the requirement analysis and design before the implementation starts. Two keywords are defined in this article namely Primary flow and Secondary flow where primary flow addresses the highest priority functionalities in the release and Secondary flow resembles the additional requirements flow in the release which the company handles. The FSC chart has been developed by the authors along with some industrial professionals like the project manager, requirements manager and the Key Performance Indicator manager. The criteria considered by the authors in analysing the projects is the length of the project, features considered in the scope of the project, possibility to visualize and analyse these requirements. 
+
+A FSC chart depicts the scope changes over time where time is on X axis and the features in the project are shown on the Y axis. The whole lifecycle of each and every feature can be depicted using this chart. The author states that the features on the top of the graph that have been a part of the release right from the start to the end are named as the survivors. Then there are three different stages where the requirement is depicted as in scope of the release, de-scoped from the release and the primary and secondary flows. 
+A set of Scope tracking mechanisms have been used in order to find the interesting criteria like the volatility of the scoping process from the FSC chart. A defined set of five scope tracking measurements are presented in this article. They are: 
+
+1. Time-related scope tracking measurement: This is the positive or negative scoping of the features per time-stamp i.e. the features coming into the release or removed from a release respectively.
+2. Feature-related scope tracking mechanisms: These measurements are mainly related to the factors associated with features of a product. Some of them are: 
+2.1 Time to feature removal: This can be the time from which a feature has been included in the project till the time it has lasted in the scope of the release. Through this certain analysis can be made as of how the requirements selection is taking place. Sometimes you have few features that will be introduced very late in the release and would be de-scoped towards the end of the project. Such actions could be rectified through data mining and introspections.
+2.2 Number of state changes per feature: This could be similar to the discussion made in time related measurements. In this technique we see the different states as discussed earlier a typical feature could exist in. How professional interpret the data from this is that the whole set of features going to minimal number of state changes throughout a release shows a stable decision making process.  
+
+This tool proved to be of effective use to the practitioners involved in this study as they believe that the volatility of the scope is confirmed using this tool for analysing various aspects of the quantitative characterization of features. Few threats have also been mentioned like the generalization of the results as only few companies are considered which do not represent all the companies developing large scale products. 
