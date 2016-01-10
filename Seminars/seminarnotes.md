@@ -195,6 +195,22 @@ According to study there are four strategies for using Boston Matrix. They are:
 	3. Try to reduce the investment and simultaneously increase cash flow and profit
 	4. Stop investing to remove dogs and start investing in other units which are benefitial for the organization.
 
+###Summaries:
+
+**Paper 1:**
+
+This paper mainly deals with software product management (SPM), the key features of it and how each of these processes are carried out in the industry. The authors of this paper present a reference framework for software product management. To start off with product management few key roles are responsible for carrying out this process. The product manager is responsible for managing the requirements, defining releases and considers the opinions of several internal and external stakeholders. Software unlike other products does not prove to be costly for the organizations as the product developed once can be developed to any number of customers and the updates to these can be made by patches and new releases. Alongside with such benefits there are a few disadvantages like handling these requirements and tracking of changes can be very complex. There is a claim made that a need of integration of research efforts in the product management domain is very important.
+
+The need of understanding the domain of the product management has led to the development of a new framework. In order to achieve this the authors carried out field interviews and discussions with the product managers. Literature reviews on both non-software and software products and finally the creation of a draft reference framework. Then a validation on this is performed by carrying out a case study.
+
+The basic reference framework is based upon the basic objects of product management. They are: 
+
+1. Artifact Hierarchy: Basic artifacts can be the requirements, products and releases. A hierarchical ordering of these generates a structure of process area. Product-Portfolio identifies the scope of the work of a product management. A distinct hierarchy of levels of levels identified in this article is a subdivision of SPM into four processes: 1. Portfolio management 2. Product road mapping 3. Release planning 4. Requirements Management. 
+2. Stakeholder Interaction: product manager’s deal with requirements that originate from several internal and external stakeholders involved in the project. The authors here has tried to distinguish some of the key stakeholders of the project where a few can be the 1. The Company board 2. Research and Innovation 3. Development team 4. Sales and marketing so on and so forth. The naming of the stakeholders is too generic here but can differ between companies.
+
+Next a brief description on the reference framework and its components is given. Portfolio management deals with the decision making on the product. In this framework this is right on the top with four main processes of life cycle management and market trend identification. Product road mapping is the scientific use of resources elements and structural dependencies for the future or a period of time. Requirements Gathering often starts with gathering the requirements and then translated to product requirements and then the duplicates are removed and finally the requirements are organized as per product and core asset. After all this is done then we group these set of requirements into different release which make up the process of release planning.
+
+
 #Seminar 4: 
 
 ###Summaries:
