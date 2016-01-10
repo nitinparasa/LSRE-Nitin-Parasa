@@ -92,9 +92,13 @@ Assigned myself to few areas on which I would like to work upon and then create 
 ##Different Issues to which I have assigned myself are: 
 ####Course Content
 **1. #12 Course Start page:**  
+
 **2. #14 Course News:**
+
 **3. #49 View Course Links:**
+
 **4. #54 Edit Course News:**
+
 **5. #64 Link to Course:**
 ####Personal Page
 **6. #40 Personal Start Page Contents:**
