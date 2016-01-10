@@ -63,11 +63,11 @@ I opened this requirement and linked the other requirements which are related to
 
 I opened this requirement as an enhancement to Incorrect Login #61. This issue has been linked to it so that there is good traceability.
 
-**3. Admin Functionalities #95: **
+**3. Admin Functionalities #95:**
 
 I opened this requirement to know what kind of functionalities the admin has to be given. With participant reflecting upon this issue much clarification to other issues could be achieved. Hence labelled this as clarification. Linked #4 to this issue.
 
-**4. Course Start Page #12: **
+**4. Course Start Page #12:**
 
 Linked issue #14 to this as I felt that it is a part of this issue and later on during the design and development this could be of help.
 
