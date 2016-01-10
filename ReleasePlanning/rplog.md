@@ -89,7 +89,7 @@ I created this requirement to start a functionality of performing the login and 
 
 #Week 50: 
 Assigned myself to few areas on which I would like to work upon and then create a mock-implementation. The main area on which I focussed on is related Course Content in the web-portal.
-##Different Issues to which I have assigned myself are: 
+##Assigned Issues: 
 ####Course Content
 **1. #12 Course Start page:**  
 
@@ -106,11 +106,11 @@ Assigned myself to few areas on which I would like to work upon and then create 
 **7. #100 Sentiment Analysis:**
 
 ###Prioritisation:
-We have decided on the prioritisation technique to be used for this project. Prior to that I mentioned in the discussion model on the benefit of using Requirements Abstraction Model [1] in the Course Discussion Forum. I think this would make our work much easier as by the application of this tool we could separate the requirements into different abstraction levels. Using this as a base we could start the prioritisation techniques and then separate the requirements.
+Prior to that I mentioned the benefit of using Requirements Abstraction Model [1] in the Course Discussion Forum. I think this would make our work much easier as by the application of this tool we could separate the requirements into different abstraction levels. Using this as a base we could start the prioritisation techniques and then separate the requirements.
 
 Basically the requirements are placed in any of the four stages namely the Product Level, Feature Level, Functional Level and the Component Level. I believe that reading about how this method works and applying this knowledge to prioritize the work would lead to good estimation or prioritisation.
 
-I have gone through a lot of articles: [2], [3], [4]
+I have gone through these listed articles: [2], [3], [4]
 
 This information was useful but the whole team decided on using Grouping Techniques for the Prioritisation. Basing on the knowledge that I gained as a result of learning about the prioritisation techniques I think it would be better to prioritize the requirements across the cost and value criteria of developing a requirement. Looking at Boston Matrix and Cost-Value Approach by J. Karlsson and K. Ryan [2] I arrived at this idea. 
 
