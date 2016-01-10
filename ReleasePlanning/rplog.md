@@ -137,6 +137,9 @@ Started reading about this technique on the internet and could learn the followi
 3. Could Have: Requirements labelled as COULD are desirable but not important for the current time-box.
 4. Won’t: They are the least critical requirements according to the participants of the release planning. These will not be implemented for the current schedule. These are either dropped or transferred to future releases.
 
+The result of the implementation of the priortisation technique for this project could be found [here](https://docs.google.com/document/d/1OS2Ab4AbSLI6uuFYWL80_sZh3mHh60QrvgnlglsD-3U/edit?usp=sharing)
+
+The whole team has assigned issues to themselves and the issues have been respectively allocated to the respective milestones after this meeting. All changes are visible in GitHub.
 ###References:
 [1] Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.
 
