@@ -1,18 +1,18 @@
-Seminar 1:
+#Seminar 1:
 
-Questions:
+###Questions:
 
 1.	What is Large Scale Requirements Engineering?
 2.	What are the challenges in large scale requirements engineering?
 3.	What is the order of magnitude on the number of requirements we are discussing?
 4.	Read and summarise Release Planning?
 
-List Of References:
+###List Of References:
 
 1. Konrad, S.; Gall, M., "Requirements Engineering in the Development of Large-Scale Systems," in International Requirements Engineering, 2008. RE '08. 16th IEEE , vol., no., pp.217-222, 8-12 Sept. 2008
 2. B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” Lect. Notes Comput. Sci. (including Subser. Lect. Notes Artif. Intell. Lect. Notes Bioinformatics), vol. 5025 LNCS, pp. 123–128, 2008.
 
-Answers:
+###Answers:
 
 1. Requirements Engineering for the development of complex software systems for large scale industrial project is Large Scale Requirements Engineering.
 
@@ -27,9 +27,9 @@ Answers:
 
 3. The order of magnitude on the number of requirements addressed in a particular project with repsect to Large scale requirements engineering is of the order of 1000 as stated by B. Regnell et al. in their article [2].
 
-Summaries:
+##Summaries:
 
-Paper 1: 
+**Paper 1:** 
 
 - This paper mainly focuses on describing the art and science of Release Planning. The author states that the 'art of release planning' is related with the human intuitions and the negotiation and marketing skills they apply for conflicting demands. The science of release planning is a practical approach of dealing by the application of algorithms and formalizing a problem. Release planning is an important phase of any type of product development. Organizations often deal with various difficulties during the release planning, the prime one being the complexity of the problem being dealt. Release planning is often done adhoc, there are no methodologies to carry out this process. 
 - According to the Capability Maturity Model Integration (CMMI) project planning is a very important step to establish and plan various management activities to execute a project. The author in this article elaborates the science of release plannng with the help of an example. Plannig has to be done to release a product within two releases. Several attributes have been discussed, which are as follows:
@@ -41,13 +41,13 @@ Paper 1:
 
 - Then the objective function is derived which helps determine good release plans. The author proposed a hybrid release planning framework. It is a 3 phased framework starting with the modeling the details of the problem. Planning objectives, Resource Allocation and Stakeholder voting are all a part of modeling. Then exploration is done where an actual solution to modeled problem is derived. Finally there is Consolidation where the solutions are analyzed and modifications are performed (Scenario-playing and Re-Estimation).
 
-Paper 2: 
+**Paper 2:** 
 
 - One of most prominent factor for product is to make sure it meets the quality requirements, one such model for planning the quality releases is QUPER. The most challenging issues that could be raised for the organisations which develop such kind products are high market competitors and future demands from the customers. This paper discusses the working of QUPER a model developed to support high-level decision making in release planning of quality requirements. The main objective of release planning as mentioned is to maximize the benefits where 'benefit' has no explicit definiton. The author portrayed a few studies that stresses on strategic releae planning of quality requirements. One of them by Svahnberg et al. portray two methods addressing quality requirements 1. Quantitative Win-Win model 2. QUPER model stressing on quality and cost constraints. The author exemplifies the QUPER model and presents a full description of the application of this model in a company and various lessons learned. 
 - Related work by Svahnberg et al. identified 24 different strategic release planning techniques where 14 are original and the other 10 being derived from them. The author states that two main factors motivated for the evolution of QUPER model: 1. A direct need of the industry 2. Lack of a suitable model to fulfil this criteria.  
 - Qualitative research was used to evaluate the QUPER model and finding enlisted. Several practitioners believe that QUPER is very easy to understand and does not require much time to apply in industrial environment. The guidelines provide all the necessary information to apply for industrial practices. Few practitioners also agree that all steps are not mandatory to be performed. Some feel that model should not be too complicated and should be a “light model”. From the interviews that have been conducted during the empirical research new approaches for finding the breakpoints were discovered like his/her own experience of estimates, comparison with competitors, access the database and market analysis. From the research few also felt the importance of workshops to educate about the QUPER model. It is also important to understand that QUPER cannot be applied for all the quality requirements and QUPER should be used from the very beginning to the end of the project. In general the paper talks about QUPER, the steps involved in QUPER and also the evaluation of the model for industrial practice.
 
-Paper 3:
+**Paper 3:**
 
 - Market driven product development and release planning have become most necessary part of the software industry. Due to increase in market driven development the role of product manager and project management have become very crucial. Release planning guarantees overall success of the project. To support release planning and mapping of the quality requirements a quality performance model has been developed. This particular article investigates on the implementation of QUPER (Quality Performance) in large scale software industries. The QUPER model was developed in 3 steps: 1. Problem definition 2. Model definition 3.Model validation. This model supports prioritisation and road mapping of the quality requirements. From this model quality was identified as a continuous and non-linear attribute. Few goals were selected for the development of the QUPER model: robustness to uncertainties, ease of use, domain relevance.
 - The QUPER domain view has three different break points utility breakpoint, differentiation breakpoint and saturation breakpoint. The QUPER cost view represents the non- linear relationship between cost and quality. QUPER roadmap view visualises the benefit breakpoints and cost benefits in relation with the quality and supports the release planning of the product. This presents the generic nature of QUPER. The evaluation of the QUPER, the following are few steps that are used for QUPER benefit view 1.Define quality aspects 2.Estimation of the current quality 3.Estimate the breakpoints and 4.Decide on actual targets of the upcoming releases.
@@ -55,14 +55,14 @@ Research was carried out to find about the QUPER relevance in industrial setting
 - QUPER model identifies the richer picture and provides a good understanding of the performance requirements. It is also stated from the research that the estimates were more accurate by using the QUPER model. The overall results conclude that QUPER is used in high level decision making during the release planning. The different breakpoints and market analysis has lead to the identification and reasoning for understanding the performance and quality requirements in a more appropriate way.
 - The only challenges that were addressed during the evaluation of the QUPER model is identifying and understanding of the breakpoints. The evaluation also suggests the feasiblity and domain specific nature of QUPER. Further reasearch could be carried in evaluating the model using more subjects with different roles.
 
-Paper 4:
+**Paper 4:**
 
 - Requirement engineering practices differ from one product to another product. The practices may be different for the packaged products and bespoke products. The packaged software product is also known as commercial off the self-products (COTS) .The product is released with particular components with planed releases. One of the various industrial requirement processes for packaged products is known as REPEAT (Requirement Engineering ProcEss At Telelogic). This process used for eliciting, selecting and managing the requirements. In REPEAT different actors are involved, they are: Requirement management group, issuer, customers, user’s requirements team, construction team, test team, expert team and requirement database. Different steps are used to accept the particular requirement by the requirement management group and it undergoes the following states: new, assigned, rejected, classified, selected and applied. 
 - The REPEAT process has different phases namely the elicitation phase and selection phase. In the elicitation phase two main activities are involved i.e. collection and classification. Requirements are collected from the users, they fill the forms and these requirements are stored in the requirements database. The estimates about the impact (I), cost(C) and priority (P) are decided. After the collection they are moved into the classified state. 
 - During the selection phase the following steps are implemented: They are selected for the release they are specified with more details and validated. Change management occurs and high priority are taken. The requirements undergo change management, construction, verification and conclusion. 
 - REPEAT is also enacted using different Message Sequencing Charts (SMC).Many challenges also have been identified for REPEAT enactment like overload control, connecting fragments, building the chasm between collection and selection, long term market analysis. 
 
-Seminar 2:
+#Seminar 2:
 
 [1]Weerd & Brinkkemper “Towards a reference framework for software product management”
 [2] Regnell & Brinkkemper “Market-Driven Requirements Engineering for Software Products” (Chapter 13 in Engineering and Management
@@ -91,9 +91,11 @@ In large scale context the process of Roadmapping can typically take place in fo
 3. Finalization phase: In this pahse the developed roadmap is validated. Then communication takes place both internally and externally i.e within the organization and with the customer.
 4. Follow-Up phase: Here the roadmap is periodically reviewed and updates are made.
 
-Summaries:
+###Summaries:
 
-Paper 1: This article stresses on mitigating the challenges related to making different requirements comparable in the development organizations. The authors propose a model named as Requirements Abstraction Model (RAM) with four abstraction levels as a response to the industrial needs. Requirements can be placed on different levels supporting abstraction and breakdown of requirements. The idea the author focussed on is to select about what a typical release should contain (requirements), when it should be released and most importantly at what cost. Cost here is the various resources needed in designing and implementing the requirements specified for that particular release. 
+**Paper 1:** 
+
+This article stresses on mitigating the challenges related to making different requirements comparable in the development organizations. The authors propose a model named as Requirements Abstraction Model (RAM) with four abstraction levels as a response to the industrial needs. Requirements can be placed on different levels supporting abstraction and breakdown of requirements. The idea the author focussed on is to select about what a typical release should contain (requirements), when it should be released and most importantly at what cost. Cost here is the various resources needed in designing and implementing the requirements specified for that particular release. 
 
 The authors main motive in introducing RAM was to give the professionals working with the product development or planning a requirements engineering model that help them in making work a lot easier. RAM is a product-perspective continuous requirements engineering effort which breaks down abstract requirements into detailed ones eventually for the work up of the requirements gathered for a project. Few benefits of using RAM are also stated by the author like determining the correct scope of the project and lining the requirements within that scope, getting good-enough requirements, formulating the requirements at the same level of abstraction and eventually giving a richer understanding of the requirements. Different documents that are used in the industry in the same line as of RAM like the Market Requirements Specification -MRS which is further refined into Product Requirements Specification and the Technical Requirements Specifications are detailed in this article.
 
@@ -113,7 +115,9 @@ The Product Level is the most abstract level and have requirements in the form o
 
 The author says that requirements as a part of RAM model can exist in either of these possible states: Draft Requirement, Rejected Requirement, Incompletely specified, Refined Requirement. Then the author details about the validations performed about how this model works and also describes the lessons learned as a part of that action. They conclude saying that RAM breaks down the requirements as needed eventually creating requirements on several levels of abstractions as per the organizations needs.
 
-Paper 2: This paper presents MERTS (A Method for Early Requirements Triage and Selection) developed using established techniques for formulating product strategies along with combination of good practices. The authors of this article highlight the grouping of the requirements that companies come across in Market Driven Requirements Engineering (MDRE). They say that requirements in MDRE come from both internal and external sources like the developers, designers and different groups like the customer groups, user groups respectively. They stress that handling these large number of requirements in MDRE perspective is highly important and hence a requirements triage and selecting the ones aligned with a specific strategy. Usually in projects involving the strategic and technical manager’s decisions some key aspects are overlooked. This formed the base of this paper where the strategic and technical perspectives are combined to formulate reasonable product strategies that are good-enough for early requirements triage. The method described has two main purposes as mentioned by the authors. First one being that this acts as a step-wise guide to creating product strategies taking both perspectives into account. The other being that strategies developed using this method could be used by the product managers to perform requirements triage with a motive of selecting the right requirements for the release. 
+**Paper 2:**
+
+This paper presents MERTS (A Method for Early Requirements Triage and Selection) developed using established techniques for formulating product strategies along with combination of good practices. The authors of this article highlight the grouping of the requirements that companies come across in Market Driven Requirements Engineering (MDRE). They say that requirements in MDRE come from both internal and external sources like the developers, designers and different groups like the customer groups, user groups respectively. They stress that handling these large number of requirements in MDRE perspective is highly important and hence a requirements triage and selecting the ones aligned with a specific strategy. Usually in projects involving the strategic and technical manager’s decisions some key aspects are overlooked. This formed the base of this paper where the strategic and technical perspectives are combined to formulate reasonable product strategies that are good-enough for early requirements triage. The method described has two main purposes as mentioned by the authors. First one being that this acts as a step-wise guide to creating product strategies taking both perspectives into account. The other being that strategies developed using this method could be used by the product managers to perform requirements triage with a motive of selecting the right requirements for the release. 
 
 In order to formulate the product strategies the authors performed a background research where they found out that a number of questions have to be answered. Those key questions are: 
 
@@ -131,7 +135,9 @@ The authors to know if and how the requirements triage is performed in the indus
 
 Then the next part is Requirements Selection for Release, where the requirements are selected according to the priority and a product-technology roadmap is specified. Finally the Strategy Rationale which is nothing but the answer to the question “why would be successful”. Here a simpler description for the reasons behind each answer is written. The authors then perform an industrial evaluation and are successful where one of the companies accepted to use this model for their next product. Future work on this model is not clearly mentioned as they think that it is limited in scope.
 
-Paper 3: The author’s main concentration in this articles stands on how organizations can improve the process of performing Requirements Engineering in a project. Two bases have been found out on which this assessment can be made, these are:
+**Paper 3:**
+
+The author’s main concentration in this articles stands on how organizations can improve the process of performing Requirements Engineering in a project. Two bases have been found out on which this assessment can be made, these are:
 
 1. Requirements Process where the organizations can measure the time or effort taken to carry out this process and compare it against a set of “best practices” noted so far.
 2. The initial product which is the result of conducting the requirements engineering process. We could measure this in terms of quality of the requirements of the product.
@@ -146,14 +152,18 @@ It is stated that in the attempt of improving the requirements engineering proce
 
 All of them are inter-connected with each other. The impact of one level affects the impact of the other level creating on the company. Later on in this article the author talks about various researches made by other researchers in each of these fields. Product strategies, GAP analysis, Requirements Abstraction Model, Boston Matrix have been briefly described.
 
-Paper 4: Richard Berntsson Svensson et al. in this article make a few contributions to the field of requirements engineering wherein companies can find a right balance between the functional requirements and the quality requirements in the projects. This article deals with the comparing the Quality requirements being handled in business to business and business to consumer type of markets, its impact and the perceptions and priorities of both the Project Manager and the Project Leader and finally selecting and managing these quality requirements in the developmental activities. Quality requirements (QR) like the performance and usability of a product are equally important with the functional requirements of a system. It is equally important to fulfil the QR along with the Functional Requirements (FR) for a product to be successful. Prior to this article the authors have published a short paper involving 10 interviews which focussed on elicitation, negotiation and handling of QR in industry. In this research both customer-specific and market-specific projects have been considered along with some known challenges found in prioritizing the requirements. Karlsson in another study identified a few challenges related to QR eventually saying that interdependencies related to QR is the main issue currently existing. The results shown in this paper answer different research questions stated in this article. They are: 
+**Paper 4:**
+
+Richard Berntsson Svensson et al. in this article make a few contributions to the field of requirements engineering wherein companies can find a right balance between the functional requirements and the quality requirements in the projects. This article deals with the comparing the Quality requirements being handled in business to business and business to consumer type of markets, its impact and the perceptions and priorities of both the Project Manager and the Project Leader and finally selecting and managing these quality requirements in the developmental activities. Quality requirements (QR) like the performance and usability of a product are equally important with the functional requirements of a system. It is equally important to fulfil the QR along with the Functional Requirements (FR) for a product to be successful. Prior to this article the authors have published a short paper involving 10 interviews which focussed on elicitation, negotiation and handling of QR in industry. In this research both customer-specific and market-specific projects have been considered along with some known challenges found in prioritizing the requirements. Karlsson in another study identified a few challenges related to QR eventually saying that interdependencies related to QR is the main issue currently existing. The results shown in this paper answer different research questions stated in this article. They are: 
 
 1. Important Quality Aspects: With this study the authors found out that Usability and the Performance requirements are the most important for the companies in the projects. They have arrived at this conclusion using the Wilcoxon rank sum test which gives the statistical p-values.
 2. Interdependencies: Prior work has been done by various authors in this area, here the authors focussed on what interdependencies deemed the most important? Eventually they found out that REQUIRES is the most important interdependency as many people think that the functionality is the prime aspect and then comes the quality aspect. Another area they focused on is to what extent are these interdependencies being elicited, analysed and documented. According to the results presented in this study 7 companies out of the dealt 11 show low extent of interdependency management as they feel this is a complex task and requires huge effort. Fulfilling the customer’s requirements is the company’s prime goal and no reflection on the QR is made as such.
 3. Cost Estimates: There is no distinction made between the QR and FR in relation to the cost estimation. Study reveals that estimating QR is quite challenging as it requires deeper analysis and restricting to the performance QR often leads to detrimental effects in the estimation.
 4. Dismissal of Quality requirements: When it comes to the dismissal of the QR from a heap of requirements the authors noted that there existed a difference of opinion between both the Project Leader (PL) and the Project Manager (PM). Once the QR are dismissed form a release they are not reassessed or analysed again. QR are not always quantified but usability requirements are often difficult to quantify than the performance requirements. Moreover not all the QR are suitable for quantification.
 
-Paper 5: In the context of Large Scale Requirements Engineering deciding which requirements to implements still daunts the companies. Prioritizing these requirements has been a challenging tasks and not many methods to perform this action have been developed. In this article the authors made an attempt to develop a tool which helps in prioritizing the requirements. This tool described in this paper helps in ranking the candidate requirements in two dimensions: one according to the value of the customer and the other according to the cost of implementation. They name it as the cost-value approach for requirements prioritization. For a successful software product it is necessary that we maximize the quality along with decreasing the cost of implementation and reducing the time-to-delivery. Analytical Hierarchy Process (AHP) has been used in this study to investigate the requirements of the projects. The reason for using this process as stated by the authors is that through this process requirements could be compared pairwise according to the cost and value. This process involves more redundancy thus leading to little errors.
+**Paper 5:**
+
+In the context of Large Scale Requirements Engineering deciding which requirements to implements still daunts the companies. Prioritizing these requirements has been a challenging tasks and not many methods to perform this action have been developed. In this article the authors made an attempt to develop a tool which helps in prioritizing the requirements. This tool described in this paper helps in ranking the candidate requirements in two dimensions: one according to the value of the customer and the other according to the cost of implementation. They name it as the cost-value approach for requirements prioritization. For a successful software product it is necessary that we maximize the quality along with decreasing the cost of implementation and reducing the time-to-delivery. Analytical Hierarchy Process (AHP) has been used in this study to investigate the requirements of the projects. The reason for using this process as stated by the authors is that through this process requirements could be compared pairwise according to the cost and value. This process involves more redundancy thus leading to little errors.
 
 In this cost-value approach to prioritizing the requirements 5 steps are followed: 
 
@@ -165,13 +175,11 @@ In this cost-value approach to prioritizing the requirements 5 steps are followe
 
 Two case studies have been briefly described by the authors in this article which have used this method for prioritizing their requirements. The three sections of the cost-value graph are nothing but the requirements with a high ratio of value-to-cost are placed in High region and similarly for the other two. One main thing the authors did not consider in this approach is the dependency that exists between the requirements. Usually there exists a lot of complex dependencies between these requirements and this has to be considered too in the creation of working of this tool.    
 
-Seminar 3: 
+#Seminar 3: 
 
-Questions
+###Questions
 
-1. Boston Matrix?
-
-1. Boston Matrix?
+**1. Boston Matrix?**
 	
 	It is an informal marketing tool used by companies for the analysis and the management of products. This tool was developed by the Boston Consulting Group in 1970's. Both market share and market growth are considered to identify where the product is currently standing and the rightful actions that have to be taken to reach the required state. Market share could be the percentage of market the organization has acheived. The impact of market share an market growth in relation to a product affecting the business of the organization can be depicted in four categories. They are: 
 	
@@ -187,11 +195,13 @@ According to study there are four strategies for using Boston Matrix. They are:
 	3. Try to reduce the investment and simultaneously increase cash flow and profit
 	4. Stop investing to remove dogs and start investing in other units which are benefitial for the organization.
 
-Seminar 4: 
+#Seminar 4: 
 
-Summaries:
+###Summaries:
 
-Paper 1:The article [1] by Krzysztof Wnuk et al. presents an industrial case study in large scale context on a technique called the Feature Survival Chart visualizes the scope changes being implemented by the companies in a project for a particular release. With a huge database of requirements associated for a typical large scale project scoping refers to the selection of a subset of these requirements for a typical release. This is often considered as a crucial activity for achieving economic benefits. Another issue is that companies find it hard to visualize these bunch of requirements and prioritise the requirements for a release. Another drawback is that the present requirement management tools do not support to carry out this activity. Hence as a remedy the authors of this article present this technique of Feature Survival Chart (FSC). 
+**Paper 1:**
+
+The article [1] by Krzysztof Wnuk et al. presents an industrial case study in large scale context on a technique called the Feature Survival Chart visualizes the scope changes being implemented by the companies in a project for a particular release. With a huge database of requirements associated for a typical large scale project scoping refers to the selection of a subset of these requirements for a typical release. This is often considered as a crucial activity for achieving economic benefits. Another issue is that companies find it hard to visualize these bunch of requirements and prioritise the requirements for a release. Another drawback is that the present requirement management tools do not support to carry out this activity. Hence as a remedy the authors of this article present this technique of Feature Survival Chart (FSC). 
 
 One of the companies being investigated in this study follows a stage-gate approach to software development. There are Milestones and Tollgates to control the progress of the project. They set up 4 milestones for the requirement analysis and design before the implementation starts. Two keywords are defined in this article namely Primary flow and Secondary flow where primary flow addresses the highest priority functionalities in the release and Secondary flow resembles the additional requirements flow in the release which the company handles. The FSC chart has been developed by the authors along with some industrial professionals like the project manager, requirements manager and the Key Performance Indicator manager. The criteria considered by the authors in analysing the projects is the length of the project, features considered in the scope of the project, possibility to visualize and analyse these requirements. 
 
