@@ -86,3 +86,52 @@ I think that issues #23 and #59 which are the discussion forum and the access to
 I created this requirement to start a functionality of performing the login and logout functionalities of the website. I added the label clarification to this issue. As specified I linked the respective issues #27 and #103 to this.
 
 7. One of the requirement was about having enable and disable option for automatic logout option. I commented on this that the default option could be it being set to “enable” state considering the security of the user.
+
+#Week 50: 
+Assigned myself to few areas on which I would like to work upon and then create a mock-implementation. The main area on which I focussed on is related Course Content in the web-portal.
+##Different Issues to which I have assigned myself are: 
+####Course Content
+**1. #12 Course Start page:**  
+**2. #14 Course News:**
+**3. #49 View Course Links:**
+**4. #54 Edit Course News:**
+**5. #64 Link to Course:**
+####Personal Page
+**6. #40 Personal Start Page Contents:**
+####Course Chatroom (Discussion Forum)
+**7. #100 Sentiment Analysis:**
+
+###Prioritisation:
+We have decided on the prioritisation technique to be used for this project. Prior to that I mentioned in the discussion model on the benefit of using Requirements Abstraction Model [1] in the Course Discussion Forum. I think this would make our work much easier as by the application of this tool we could separate the requirements into different abstraction levels. Using this as a base we could start the prioritisation techniques and then separate the requirements.
+
+Basically the requirements are placed in any of the four stages namely the Product Level, Feature Level, Functional Level and the Component Level. I believe that reading about how this method works and applying this knowledge to prioritize the work would lead to good estimation or prioritisation.
+
+I have gone through a lot of articles: 
+[cost value]
+[software prioritizing]
+[Ahp]
+
+This information was useful but the whole team decided on using Grouping Techniques for the Prioritisation. Basing on the knowledge that I gained as a result of learning about the prioritisation techniques I think it would be better to prioritize the requirements across the cost and value criteria of developing a requirement. Looking at Boston Matrix and Cost-Value Approach by J. Karlsson and K. Ryan [cva] I arrived at this idea. 
+
+##Dependencies between the requirements: According to Richard Berntsson Svensson et al. in his article [eleven] which originated in the research by Carlshamre in their article [indus] reveal that there are six different types of interdependencies.  They are:
+1. AND 
+2. REQUIRES
+3. TEMPORAL
+4. CVALUE
+5. ICOST
+6. OR
+
+Another point that I came across in [home1] in relation to dependencies affecting the prioritisation is that Coupled features are supposed to be released jointly because of their dependency.
+
+#Week 52:
+This week we implemented the prioritisation technique on the requirements. I would like to share my knowledge on the technique we used for this process. In this we planned to use the MoSCoW technique.
+
+Started reading about this technique on the internet and could learn the following:
+-	MoSCoW is a prioritisation technique used in many domains like software development, business analysis, etc. to attain a understanding among the various participants of a project about the importance level of delivery of requirements to the customers.
+-	This acronym has been derived from the categories this technique consists of. While prioritising requirements using this technique we place them in four different categories for each release. They are: 
+
+1. Must Have: Those requirements which are labelled as MUST are to be delivered for the current release at any cost. These are the most critical activities and are given the highest priority. 
+2. Should Have: Requirements that are labelled as SHOULD are equally important with those labelled as MUST but are not mandatory to be implemented for the current release.
+3. Could Have: Requirements labelled as COULD are desirable but not important for the current time-box.
+4. Won’t: They are the least critical requirements according to the participants of the release planning. These will not be implemented for the current schedule. These are either dropped or transferred to future releases.
+
