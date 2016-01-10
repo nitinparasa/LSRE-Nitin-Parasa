@@ -180,8 +180,8 @@ Two case studies have been briefly described by the authors in this article whic
 ###Questions
 
 **1. Boston Matrix?**
-	
-	It is an informal marketing tool used by companies for the analysis and the management of products. This tool was developed by the Boston Consulting Group in 1970's. Both market share and market growth are considered to identify where the product is currently standing and the rightful actions that have to be taken to reach the required state. Market share could be the percentage of market the organization has acheived. The impact of market share an market growth in relation to a product affecting the business of the organization can be depicted in four categories. They are: 
+
+It is an informal marketing tool used by companies for the analysis and the management of products. This tool was developed by the Boston Consulting Group in 1970's. Both market share and market growth are considered to identify where the product is currently standing and the rightful actions that have to be taken to reach the required state. Market share could be the percentage of market the organization has acheived. The impact of market share an market growth in relation to a product affecting the business of the organization can be depicted in four categories. They are: 
 	
 
 1. Dogs: This is the phase of a product lyinh in low market growth and low market share problem. They eat up most of the money the organization spends on a product and shows no sings of development or fetch money to the company.
