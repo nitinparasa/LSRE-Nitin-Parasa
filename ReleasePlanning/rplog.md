@@ -51,6 +51,12 @@ Some issues are already being given some labels by other members. I would start 
 
 -	Then the head made a comment saying that “Would Planning Poker work for ~5000 requirements”. This made us think and then we started to think of other prioritization techniques like Analytical Hierarchical Process, Cost Value Approach, Ranking Method, Grouping.
 
+- I have a thought on how to represent the size and value estimates to each of these requirements in Github. What I propose to do is that we would decide on a standard of displaying the Effort and Size along with the Issue Description. 
+
+  For example: *Issue Name*-*Size*-*Value*
+  This would make it a easier for the designer and developers to understand the estimates value and these could also be easily fetched to use them in any other file.
+
+If the above solution does not seem to be feasible then we could add fields in the Issue Description about Size and Value and input these values over there.
 #Week 49:
 
 -	Following the comments I started to add new requirements and also started to link the requirements between each other.
