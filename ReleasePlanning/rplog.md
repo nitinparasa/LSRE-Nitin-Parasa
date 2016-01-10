@@ -21,7 +21,7 @@ Issue 4: (Limited Views)
 
 Issue 59: (Access to Discussion Forum)
 
-- Description: Only participators in a course shall be able to access the course's discussion forum.
+Description: Only participators in a course shall be able to access the course's discussion forum.
 
 This needs a bit more clarity as of what kind of access id given to the course responsible? Is he also an active member of the discussion forums? Later on with the discussions of other members clarity on this issue has been obtained.
 
