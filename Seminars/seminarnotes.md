@@ -214,3 +214,34 @@ A set of Scope tracking mechanisms have been used in order to find the interesti
 2.2 Number of state changes per feature: This could be similar to the discussion made in time related measurements. In this technique we see the different states as discussed earlier a typical feature could exist in. How professional interpret the data from this is that the whole set of features going to minimal number of state changes throughout a release shows a stable decision making process.  
 
 This tool proved to be of effective use to the practitioners involved in this study as they believe that the volatility of the scope is confirmed using this tool for analysing various aspects of the quantitative characterization of features. Few threats have also been mentioned like the generalization of the results as only few companies are considered which do not represent all the companies developing large scale products. 
+
+**Paper 2:**
+
+Market Driven Requirements Engineering deals with requirements of very large number. There is rapid requirements change and it is very crucial for the software companies to handle this efficiently in order to stay in the competition. Obsolete requirements is well known in the software industry but not much research has been done to address at least the basic concepts in this phenomenon. Hence in this article the authors have made an empirical investigation with 219 respondents spread across the globe. 
+
+Firstly we will discuss about what obsolete software requirements are and then go through how the authors carried out a survey aimed at gathering data from various industrial professionals on what this thing exactly is. Various graphs have been used to convey the collected data in an effective way. Then we'll go through the different kinds of threats the results are prone to as addressed by the author. 
+
+In Market Driven Requirements Engineering (MDRE) incoming requirements come at a very fast pace and the rate of change is very high. Companies need to identify them as and simultaneously classify these as of which are obsolete or outdated. This process of rapidly identifying such requirements is a complex task. The background for this study comes from requirements management where the primary responsibility is to integrate the data created in the requirements elicitation into the overall project flow. If any change occurs during the lifetime of the project this task can prove challenging for large software systems. In literature seldom consideration for managing the obsolete requirements is mentioned. Alongside scope creep, requirements creep are considered as two of the five core risks during the execution of requirements phase. It is stated in the article that the longer it takes to implement a requirement the higher is the risk of change. Researchers often relate Obsolete Software Requirements (OSR) with volatility. A proper definition given to an OSR is 
+**"An obsolete requirement is a software requirement that is no longer required for the current release and which has no value or business goals for the potential customers or users of a software artifact for various reasons."**
+
+To find the interesting criteria in this field the authors planned to carry out a survey that would reach a large number of people. It consisted about 15 open and close ended questions with questions being both multiple-choice and single-choice questions. The research questions addressed in this article are 9 and these are derived from core basics like the asking for the definition of OSR and the kind of impact it creates on the companies. Some of them investigate on finding out the various types of requirements getting obsolete, finding out if OSR's are related to software context. Some included in finding out if there are any practices followed for handling the OSR's.
+
+Next we will discuss research questions and the summarised information on findings of the authors in this article. For the identification of correct Obsolete Requirement definition the author has analysed the answers given by the respondents and then identified the keywords from each of them and eventually framed a definition. Around 30% of the people stated it as it is no longer required and 21% of them stated that it is of no potential use for the users. 
+
+For finding out the potential impact of OSR 45% of the respondents valued it as Somehow Serious and 39% of them classified that it has serious impact. Another interesting criteria found out was that the respondents working with bespoke projects have graded OSR as less serious ones. This could be because of the lack of experience for them working in large scale projects. The authors next concentrated on finding out what type of requirements generally become obsolete. From the results it was clearly evident that the OSR's belonged to the categories of the misunderstood requirements and inconsistent requirement and ambiguous requirements. The respondent’s domain, company size and the methodologies they follow have minimal effect on the results furnished in this article.
+
+More than 50% of the respondents say that there is only manual way to find out the OSR's and this is the primary method. Some of them mentioned that they could be identified by execution of test cases based on requirements which seems to be interesting and carry out further research. Once these requirements have been identified some means has to be used to handle them, but then over 50% of the respondents say that they keep them but assign them as "obsolete" and write reasons for that while some say that they would move them to a separate column named as Obsolete requirements. During Requirement Validation or Requirements changing or requirements analysis phase it is good to handle the obsolete requirements. 
+
+There are few existing practices for managing the OSR's. According to the answers by the respondents they are:
+1. Reviews of requirements and requirements specifications
+2. Using tools and "marking requirements as obsolete"
+3. Requirements traceability
+4. Discussing and prioritizing requirements with frequent customer interaction
+5. Moving OSR's into a separate section in the Systems Requirements Specifications (SRS)
+
+While these are some other processes and methods are also listed in this article where are some them are as listed below:
+1. Projective analysis through modelling: It studies the complexity pertaining to systems of systems and requires a skilled process modeller to analyse these requirements and align with the model paradigm.
+2. Requirements-based test plans.
+3. Commenting out obsolete code and updating requirements documents accordingly.
+4. Using requirements validation techniques.
+
