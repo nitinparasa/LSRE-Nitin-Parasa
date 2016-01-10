@@ -25,3 +25,18 @@ Issue 59: (Access to Discussion Forum)
 
 This needs a bit more clarity as of what kind of access id given to the course responsible? Is he also an active member of the discussion forums? Later on with the discussions of other members clarity on this issue has been obtained.
 
+Issue 69: (Course Chatroom)
+
+Description: I want to add one or more chatrooms to a course.
+
+This was rather unclear requirement. This needed much fine-tuning and few people already started discussing about this. Then I placed my perspective of having an analysis of the text (sentiment analysis) on the messages being sent in the chats.
+
+Issue 68: (Contents of Message)
+
+Description: The user wanted a message to contain all the details of the date, time and the author who is sending the message.
+
+I made a comment to clarify if the data of the authors being stored in our databases. Should wait for the respective personnel to respond to proceed further regarding this.
+
+-	I focussed on the design aspects of some of the requirements related to the layout of the webpages and components that are to be involved in the webpages. Some requirements are Issue 73, Issue 64.
+
+Some issues are already being given some labels by other members. I would start analysing the issues that I have been a main contributor for and would assign the labels to them as well.
