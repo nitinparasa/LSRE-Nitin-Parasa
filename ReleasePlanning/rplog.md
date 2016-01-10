@@ -106,14 +106,12 @@ We have decided on the prioritisation technique to be used for this project. Pri
 
 Basically the requirements are placed in any of the four stages namely the Product Level, Feature Level, Functional Level and the Component Level. I believe that reading about how this method works and applying this knowledge to prioritize the work would lead to good estimation or prioritisation.
 
-I have gone through a lot of articles: 
-[cost value]
-[software prioritizing]
-[Ahp]
+I have gone through a lot of articles: [2], [3], [4]
 
-This information was useful but the whole team decided on using Grouping Techniques for the Prioritisation. Basing on the knowledge that I gained as a result of learning about the prioritisation techniques I think it would be better to prioritize the requirements across the cost and value criteria of developing a requirement. Looking at Boston Matrix and Cost-Value Approach by J. Karlsson and K. Ryan [cva] I arrived at this idea. 
+This information was useful but the whole team decided on using Grouping Techniques for the Prioritisation. Basing on the knowledge that I gained as a result of learning about the prioritisation techniques I think it would be better to prioritize the requirements across the cost and value criteria of developing a requirement. Looking at Boston Matrix and Cost-Value Approach by J. Karlsson and K. Ryan [2] I arrived at this idea. 
 
-##Dependencies between the requirements: According to Richard Berntsson Svensson et al. in his article [eleven] which originated in the research by Carlshamre in their article [indus] reveal that there are six different types of interdependencies.  They are:
+##Dependencies between the requirements: 
+According to Richard Berntsson Svensson et al. in his article [5] which originated in the research by Carlshamre in their article [6] reveal that there are six different types of interdependencies.  They are:
 1. AND 
 2. REQUIRES
 3. TEMPORAL
@@ -121,7 +119,7 @@ This information was useful but the whole team decided on using Grouping Techniq
 5. ICOST
 6. OR
 
-Another point that I came across in [home1] in relation to dependencies affecting the prioritisation is that Coupled features are supposed to be released jointly because of their dependency.
+Another point that I came across in [7] in relation to dependencies affecting the prioritisation is that Coupled features are supposed to be released jointly because of their dependency.
 
 #Week 52:
 This week we implemented the prioritisation technique on the requirements. I would like to share my knowledge on the technique we used for this process. In this we planned to use the MoSCoW technique.
@@ -135,3 +133,11 @@ Started reading about this technique on the internet and could learn the followi
 3. Could Have: Requirements labelled as COULD are desirable but not important for the current time-box.
 4. Won’t: They are the least critical requirements according to the participants of the release planning. These will not be implemented for the current schedule. These are either dropped or transferred to future releases.
 
+###References:
+[1] Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.
+[2] Karlsson, Joachim, and Kevin Ryan. "A cost-value approach for prioritizing requirements." Software, IEEE 14.5 (1997): 67-74.
+[3] Karlsson, Joachim. "Software requirements prioritizing." Requirements Engineering, 1996., Proceedings of the Second International Conference on. IEEE, 1996.
+[4] T.L. Saaty, The Analytic Hierarchy Process, McGraw-Hill, New York, 1980.
+[5] Berntsson Svensson, R., et al. "Quality requirements in industrial practice-an extended interview study at eleven companies. Software Engineering." IEEE Transactions on, preprint1 (2011).
+[6] Carlshamre, Pär, et al. "An industrial survey of requirements interdependencies in software product release planning." Requirements Engineering, 2001. Proceedings. Fifth IEEE International Symposium on. IEEE, 2001.
+[7] Ruhe, Günther, and Moshood Omolade Saliu. "The art and science of software release planning." Software, IEEE 22.6 (2005): 47-53.
