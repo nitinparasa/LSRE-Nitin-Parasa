@@ -139,9 +139,15 @@ Started reading about this technique on the internet and could learn the followi
 
 ###References:
 [1] Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.
+
 [2] Karlsson, Joachim, and Kevin Ryan. "A cost-value approach for prioritizing requirements." Software, IEEE 14.5 (1997): 67-74.
+
 [3] Karlsson, Joachim. "Software requirements prioritizing." Requirements Engineering, 1996., Proceedings of the Second International Conference on. IEEE, 1996.
+
 [4] T.L. Saaty, The Analytic Hierarchy Process, McGraw-Hill, New York, 1980.
+
 [5] Berntsson Svensson, R., et al. "Quality requirements in industrial practice-an extended interview study at eleven companies. Software Engineering." IEEE Transactions on, preprint1 (2011).
+
 [6] Carlshamre, Pär, et al. "An industrial survey of requirements interdependencies in software product release planning." Requirements Engineering, 2001. Proceedings. Fifth IEEE International Symposium on. IEEE, 2001.
+
 [7] Ruhe, Günther, and Moshood Omolade Saliu. "The art and science of software release planning." Software, IEEE 22.6 (2005): 47-53.
