@@ -57,6 +57,7 @@ R6: As a system, I want to authenticate users via e-mail, so that the user is ve
 R7: As a user, I want a complete description page so that I can view important information about places.
 
 R8: As a user, I want to register and signup so that user can access profile.
+
 R9: As a system, I want to maintain session data, so that the user data is dynamically available for all pages.
 
 **Step 1:**
@@ -253,5 +254,7 @@ Low: R5, R4.
 
 ##References:
 [1] Khurum, Mahvish, Khurum Aslam, and Tony Gorschek. "A method for early requirements triage and selection utilizing product strategies." Software Engineering Conference, 2007. APSEC 2007. 14th Asia-Pacific. IEEE, 2007.
+
 [2] Karlsson, Joachim, and Kevin Ryan. "A cost-value approach for prioritizing requirements." Software, IEEE 14.5 (1997): 67-74.
+
 [3] Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.
