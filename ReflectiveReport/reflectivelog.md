@@ -17,6 +17,8 @@ For the second article I chose to implement the Requirements Abstraction Model (
 
 #Reflective Report:
 
+##Technique 1:
+
 **23-December-2015**
 
 ###Article selection:
@@ -261,6 +263,95 @@ Without the aid of proper tools this task can prove to be a nightmare for the re
 **Reflections:**
 
 I had a good experience working with this technique. It was interesting and challenging to use and at the same time simple to understand. It hardly took time for me to learn the concept behind this prioritisation technique. However my experiences incline towards what the author of article [2] says. There are examples of two case studies carried out by the implementation this technique which showed positive results towards the end of the requirements phase of each project.
+
+##Technique 2: 
+
+**5-Jan-2016:**
+
+The second technique that I would like to impement and reflect my views upon is the Requirments Abstraction Model (RAM). I am very much fascinated with this technique because this make the process of prioritsing the requirements a lot easier. I think that placing the requirements through the RAM model gives a clear idea as of what each reuqirement actually meant and where each of them belong to. Furtherdown I would like to share my experiences working with this model.
+
+**What is RAM?**
+
+It is a model with four abstraction levels developed by Prof. Dr. Tony Gorschek and Prof. Dr. Claes Wohlin. They have developed a model where requirements can be placed on different levels and accordingly they can be broken down making it easier to compare with each other. Three constranits are mainly focussed in this model, what (requirements) a release should contain, when (time) of the release should they be implemented and at what cost. Continuous requirements engineering is supported by this model where in requirements can be placed at various levels and can be broken down into detailed ones. RAM is carried out in three steps. They are: 
+1.  Specify: This is the elicitation phase where the requirements are gathered from the stakeholders. Here the raw requirements are taken and the extent to which the Product Manager understands these is analysed. Four attributes are specified in this step. They are: 1. Description: The requirements here should satisfy the criteria that it should not be more than 5 sentences. Forms the central essence
+2.  Reason: deals with why the requirement is specified.
+3.  Risk/ Restrictions: it deals with the restrictions and risks of the requirements.
+4.  Title: it should be able to clearly depict the requirement.
+
+2. Place: This phase deals with placing the requirements at the right abstraction level. Four abstraction levels exist. They are: 
+ 1. Product Level
+ 2. Feature Level 
+ 3. Function Level
+ 4. Component Level
+  and finally 
+3. Abstraction: the requirements are broken down to detailed ones in this phase.
+
+**Implementation Plan:**
+As a part of implementing this method I would like to make use of three requirements and then implement the RAM model on these requirements and check the level to which eah of these requirements reside. The requirements selected are a part of an online travel guide where the users can get to register and navigate through list of countries to find out various places in these countries. 
+
+**7-January-2016**
+
+**Execution and Proof of Concept:**
+
+**Step 1:** 
+
+Requirement 1: 
+
+Title: Interactive Map
+Description: As a user I should be able to navigate to different countries to view the places in those countries.
+Reason: easy navigability to the user.
+Risks: might not be understood to the amateur users.
+
+Requirement 2:
+
+Title: login
+Description: As a user, I should be able to log into the system.
+Reason: to distinguish each user.
+risk: sessions might not be correctly handled
+
+Requirement 3: 
+
+Title: wishlist
+Description: As a user, I should be able to add places to my wishlist.
+Reason: better and rich user experience
+risk: wrong data being stored for the users.
+
+**Step 2:**
+
+Requirement 1: Feature Level
+
+Requirement 2: Feature Level
+
+Requirement 3: Functional Level
+
+**Step 3:**
+
+Here we perform the abstraction of the requirements specified.
+
+Requirement 1: Interactive Map - Feature Level
+This could be further broken down into:
+
+Requirement 1.1: Countries accessible
+
+Title: Countries Accessible
+Description: what are the different countries to which the access in the map is given
+reason: maintain the scope of the project within limits.
+Abstaction Level: Functional Level 
+
+Requirement 2: Login - Feature Level 
+This requirement can be broken down into 
+
+Requirement 2.1: Email Authentication
+Description: the first time the user log in it is mandatory to activate his email id.
+reason: increases the security of the product.
+Abstraction Level: Functional Level
+
+Requirement 3: wishlist - Functional Level
+This could not be further broken down as this is in its most abstract level.
+
+**Lessons Learned:**
+
+I was not able to completely explore this technique as some of the requirements that I have taken are straight away at the most abstract level and could not be broken down. Yet this technique is very efficient, as I was trying to break the requirements down I was able to think deep about it and make it even more clear. This way it helps the organizations in clearly understanding what each and every requirement actually mean.
 
 ##References:
 [1] Khurum, Mahvish, Khurum Aslam, and Tony Gorschek. "A method for early requirements triage and selection utilizing product strategies." Software Engineering Conference, 2007. APSEC 2007. 14th Asia-Pacific. IEEE, 2007.
