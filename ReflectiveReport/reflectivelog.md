@@ -219,7 +219,24 @@ The relative costs obtained are:
 **Step 5:**
 
 Using the above values we have to generate a cost value diagram which helps in prioritising the requirements. For this analysis the suggested method is that three different sections are divided in the graph where each region is named as High, Medium and Low respectively.
-The valu-to-cost ratios of each requirements are as follows:
-R1:
-R2:
-R2:
+The value-to-cost ratios of each requirements are as follows:
+
+R1:4.33
+R2:0.833
+R3:0.5
+R4:0.33
+R5:0.107
+R6:2.33
+R7:0.85
+R8:2.88
+R9:1.8
+
+There is a limit for placing the requirements into each of these categories depending on the value-cost ratio:
+High: above 2, Medium: 2 - 0.5, Low: below 0.5
+
+The requirements in this project can be classified as: 
+High: R1, R6, R8
+
+Medium: R9, R2, R7, R3
+
+Low: R5, R4.
