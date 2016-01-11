@@ -1,4 +1,4 @@
-#Seminar 1:
+#Seminar 0:
 
 ###Questions:
 
@@ -9,8 +9,8 @@
 
 ###List Of References:
 
-1. Konrad, S.; Gall, M., "Requirements Engineering in the Development of Large-Scale Systems," in International Requirements Engineering, 2008. RE '08. 16th IEEE , vol., no., pp.217-222, 8-12 Sept. 2008
-2. B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” Lect. Notes Comput. Sci. (including Subser. Lect. Notes Artif. Intell. Lect. Notes Bioinformatics), vol. 5025 LNCS, pp. 123–128, 2008.
+[1] Konrad, S.; Gall, M., "Requirements Engineering in the Development of Large-Scale Systems," in International Requirements Engineering, 2008. RE '08. 16th IEEE , vol., no., pp.217-222, 8-12 Sept. 2008
+[2] B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” Lect. Notes Comput. Sci. (including Subser. Lect. Notes Artif. Intell. Lect. Notes Bioinformatics), vol. 5025 LNCS, pp. 123–128, 2008.
 
 ###Answers:
 
@@ -62,7 +62,7 @@ Research was carried out to find about the QUPER relevance in industrial setting
 - During the selection phase the following steps are implemented: They are selected for the release they are specified with more details and validated. Change management occurs and high priority are taken. The requirements undergo change management, construction, verification and conclusion. 
 - REPEAT is also enacted using different Message Sequencing Charts (SMC).Many challenges also have been identified for REPEAT enactment like overload control, connecting fragments, building the chasm between collection and selection, long term market analysis. 
 
-#Seminar 2:
+#Seminar 1:
 
 [1]Weerd & Brinkkemper “Towards a reference framework for software product management”
 [2] Regnell & Brinkkemper “Market-Driven Requirements Engineering for Software Products” (Chapter 13 in Engineering and Management
@@ -175,7 +175,7 @@ In this cost-value approach to prioritizing the requirements 5 steps are followe
 
 Two case studies have been briefly described by the authors in this article which have used this method for prioritizing their requirements. The three sections of the cost-value graph are nothing but the requirements with a high ratio of value-to-cost are placed in High region and similarly for the other two. One main thing the authors did not consider in this approach is the dependency that exists between the requirements. Usually there exists a lot of complex dependencies between these requirements and this has to be considered too in the creation of working of this tool.    
 
-#Seminar 3: 
+#Seminar 2: 
 
 ###Questions
 
@@ -211,7 +211,7 @@ The basic reference framework is based upon the basic objects of product managem
 Next a brief description on the reference framework and its components is given. Portfolio management deals with the decision making on the product. In this framework this is right on the top with four main processes of life cycle management and market trend identification. Product road mapping is the scientific use of resources elements and structural dependencies for the future or a period of time. Requirements Gathering often starts with gathering the requirements and then translated to product requirements and then the duplicates are removed and finally the requirements are organized as per product and core asset. After all this is done then we group these set of requirements into different release which make up the process of release planning.
 
 
-#Seminar 4: 
+#Seminar 3: 
 
 ###Summaries:
 
@@ -261,3 +261,33 @@ While these are some other processes and methods are also listed in this article
 3. Commenting out obsolete code and updating requirements documents accordingly.
 4. Using requirements validation techniques.
 
+###Seminar 4: 
+
+####Questions: 
+
+**What tools are available for requirements management?**
+
+Requirements Management is a complex task that needs the support of at least a small suitable tool like the flip charts or index cards. Offline application or suites are the most widely used tools for requirements management and specification. The main advantage being the ease of use. However there are some deficiencies like not treating a requirement as a separate entity, poor traceability, no support of parallel documentation editing, etc. 
+
+On the other hand there are Word processors which are offline applications mostly used for developing requirements management specification documents
+Then there are Spreadsheet Software, Presentation software, Visual Modelling tools, Issue Tracking Software, etc.
+
+Some examples of these tools are [1]: 
+
+1. [Cognition Cockpit (7-4) by Cognition Corporation](http://cognition.us/) 
+2. [codeBeamer Requirements Management (7.6) by Intland Software GmbH](http://intland.com/codebeamer/product-overview/)
+3. [IBM Rational DOORS (9.6.1.2) by IBM](http://www-03.ibm.com/software/products/en/ratidoorfami)
+4. [Polarion Requirements (2015) by Polarion Software](www.polarion.com/products/requirements/index.php)
+5. [Caliber (11.4.2) by Borland (Micro Focus)](http://www.borland.com/en-GB/Home)
+
+**2. Any particular tools for agile requirements management?**
+
+Similarly they are tools for agile requirements management. Some of them are listed below [1]:
+
+1. [HP Agile Manager (2.30) by Hewlett-Packard](http://www8.hp.com/us/en/software-solutions/agile-project-management-software-development/index.html)
+2. [Jira Agile (6.6.80) by Attlassian](https://www.atlassian.com/)
+3. [Rally (2015.1) by Rally Software Development Corp.](https://www.rallydev.com/)
+4. [VersionOne (15.0.9) by VersionOne](https://www.versionone.com/)
+
+####References:
+[1]A. Birk and G. Heller, "List of Requirements Management Tools | The Making of Software", Makingofsoftware.com, 2016. [Online]. Available: http://makingofsoftware.com/resources/list-of-rm-tools. [Accessed: 11- Jan- 2016].
