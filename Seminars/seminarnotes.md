@@ -265,7 +265,7 @@ While these are some other processes and methods are also listed in this article
 
 ####Questions: 
 
-**What tools are available for requirements management?**
+**1. What tools are available for requirements management?**
 
 Requirements Management is a complex task that needs the support of at least a small suitable tool like the flip charts or index cards. Offline application or suites are the most widely used tools for requirements management and specification. The main advantage being the ease of use. However there are some deficiencies like not treating a requirement as a separate entity, poor traceability, no support of parallel documentation editing, etc. 
 
@@ -289,5 +289,28 @@ Similarly they are tools for agile requirements management. Some of them are lis
 3. [Rally (2015.1) by Rally Software Development Corp.](https://www.rallydev.com/)
 4. [VersionOne (15.0.9) by VersionOne](https://www.versionone.com/)
 
+**3. Thesis on finding challenges of Continuous Integration in the Context of Requirements breakdown:**
+
+Continuous Integration (CI) is the concept where the teams get all the code together in one place everyday. The thesis is mainly focussed on assessing the challenges of continuous integration and requirements breakdown and their influence on the whole process. For the software companies to withstand the heavy competition it is crucial for them to adopt agile practices as they put more emphasis on the customer satisfaction and collaboration. CI is often related to the number of check ins made daily. A typical check-in can be build of the software provided that all the tests are passed. CI has been originated from the eXtreme Programming agile method where the goal of each developer is to commit code several times a  day and then build and test the software.
+
+The author has made good effort in introducing the knowledge required to understand the thesis for all the readers. The readers will go through Agile Software development, Requirements breakdown, continuous integration, etc. The fulfil the purpose of the study the authors have carried out a case study at Ericsson by thoroughly examining a case the comppany is currently working on. Following that they carried out 13 semi-strucutured interviews of the employees of that company. The research mainly focussed on finding the challenges of impementing CI process and then the influence of requirements breakdown on CI.
+
+CI at Ericsson takes place in the following procedure: One team starts working on a featureand then pushes all the changes into the work branch. After the completion of the feature the changes are pushed to the Latest Local Version where it is tested. Then the pre-test build is generated for the successfully tested product which is later on integrated to something called Latest Stable Version. Similarly Requirements breakdown at Ericsson is done with the Operational Product Owners who are responsible for the featuring of Product Backlog and deciding the order of requirements execution. Then a cross-functional team uses this data to create the sprint backlog. And it is largely dependent on the cross-functional teams where the requirements are broken down. 
+
+The different challenges as found out by the authors in the fields of CI and requirements breakdown are as follows:
+
+Challenges in CI: 
+
+1. Mindset: Companies while migrating to CI often face challenges with the midnsets of the developers. 7 out of 13 interviewees clain that developers are always positive about the concepts of CI.
+2. Tools and Infrastructure: Many tools are required to carry out the CI in an efficient way. These include tools for reviewing code, visualizing test results, running automated test cases, etc.
+3. Testing: According to the authors findings testing challenges is because of the lack of automated tests along with a stable test framework for the developers.
+4. Domain Applicability 
+5. Understandability
+6. Code Dependencies
+7. Software Requirements 
+
+Some challenges identified for requirements breakdown are with the requirements abstraction i.e. finding the right level of abstraction for the requirements, alignment of requirements with tests to be properly integrated with the mainline, Customer Value and guiding principles. Now that we have seen different challenges faced in each of these domains the author tried ot find out the influence of one upon the other. 
+
+Breaking the requirements led to the development of smaller units and these units are proving challenging for the companies to carry out the testing. Hence these must be combined to form features. Using CI on demand product delivery is possible but the number of integrations done before that has to generalised and finalised.
 ####References:
 [1]A. Birk and G. Heller, "List of Requirements Management Tools | The Making of Software", Makingofsoftware.com, 2016. [Online]. Available: http://makingofsoftware.com/resources/list-of-rm-tools. [Accessed: 11- Jan- 2016].
