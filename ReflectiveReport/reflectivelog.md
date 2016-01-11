@@ -1,12 +1,21 @@
 ###Running Log of Article selection:
+
+**9-December-2015:**
+
 First I found out this article [1]
 -	I planned to implement the MERTS (A Method for Early Requirements Triage and Selection) technique developed by M. Khurum et al. in their article [1]. 
 
 In this article the authors used established techniques for formulating effective product strategies. Requirements handling is highly important in MDRE perspective and hence a requirements triage and the selection of the ones aligned with a specific strategy.
- 
-Then I changed to implement this technique [2]
+
+**16-December-2015:**
+
+Found out requirements to implement this technique but I am not have that clear idea as of how to exactly carry out this process.
+
+Then I changed to implement this technique [2]. As I was reading the article it drew my whole attention towards it be it because of the mathematical calculations. Moreover not much research has been done in this area.
 
 #Reflective Report:
+
+**23-December-2015**
 
 ###Article selection:
 
@@ -23,6 +32,8 @@ Then I changed to implement this technique [2]
 4. Then implementation costs and relative values are formulated and then the requirements are placed in cost-value graph. 
 5. Using the graph as an aid the stakeholders prioritise the requirements.
 
+**3-Jan-2016:**
+
 **Implementation Plan:**
 I plan to take 3 requirements and carry out this technique. The reason I am taking only three requirements is that being this the first time implementing this it would be clear to execute all the steps involved. Moreover the technique that we are implementing here can be scaled to any number of requirements and just the calculations get a bit tough but the whole process remains the same.
 
@@ -38,9 +49,13 @@ R7: As a user, I want a complete description page so that I can view important i
 R8: As a user, I want to register and signup so that user can access profile.
 R9: As a system, I want to maintain session data, so that the user data is dynamically available for all pages.
 
-Step 1: All requirements are clearly understood and written as per standards.
+**Step 1:**
 
-Step 2: Carry out the AHP process:
+All requirements are clearly understood and written as per standards.
+
+**Step 2:** 
+
+Carry out the AHP process:
 
 Step 2.1: Set up 9*9 matrix.
 
@@ -98,7 +113,9 @@ Then find the sum of each row in the matrix and divide each element by the numbe
 |0.264|
 |0.087|
 	
-Step 2.4: Assign the relative value to each requirement basing on the eigen value obtained above.
+**Step 3:**
+
+Assign the relative value to each requirement basing on the eigen value obtained above.
 -	R1 contains 13 percent of the requirements’ total value
 -	R2 contains 10 percent
 -	R3 contains 7 percent
@@ -114,6 +131,7 @@ Then we find out the result consistency just to confirm if we were able to deter
 Next we have to find the Consistency Index: CI = (λmax − n)/(n − 1)   
 
 Multiply both matrices to find the value of λmax.
+
 |       |R1	|R2	|R3|R4|R5|R6|R7|R8|R9|
 | --- |:---:| ---:|---:|---:|---:|---:|---:|---:|---:|
 |R1	|1	|3	|5 |3|7|1/3|3|1/5|3
@@ -182,7 +200,26 @@ RI indices for matrices are as given below:
 
 CR = 0.97/1.45 = 0.66 which is a reasonable value but is occurs very frequently when people apply this method. Generally a value of 0.1 or lower is acceptable.
 
-Similarly we perform the Cost implementation technique and find out the relative values as performed for value.
+**Step 4:**
+
+Similarly we perform the Cost implementation technique and find out the relative values as performed for value. The same sequence of steps applied for relative value determination is applied ot find out the relative costs of the requirements. It is only that the values are depicted here but not the whole process again.
 
 The relative costs obtained are:
 
+- 	R1 contains 3 percent of the requirements’ total cost
+-	R2 contains 12 percent
+-	R3 contains 14 percent
+-	R4 contains 13 percent
+-	R5 contains 28 percent
+-	R6 contains 6 percent
+-	R7 contains 7 percent
+-	R8 contains 9 percent
+-	R9 contains 5 percent
+
+**Step 5:**
+
+Using the above values we have to generate a cost value diagram which helps in prioritising the requirements. For this analysis the suggested method is that three different sections are divided in the graph where each region is named as High, Medium and Low respectively.
+The valu-to-cost ratios of each requirements are as follows:
+R1:
+R2:
+R2:
