@@ -48,7 +48,7 @@ Step 2.2: Perform Pairwise comparisons:
   
 Step 2.3: Next we perform the averaging method to determine the eigen values of the matrix.
 
-|R1	|R2|R3|
+| |R1	|R2|R3|
 |---:|---:|---:|---:|
 |R1|	0.65|	0.69|	0.55|
 |R2|	0.21|	0.23|	0.33|
@@ -58,8 +58,9 @@ Then find the sum of each row in the matrix and divide each element by the numbe
 	
 
 
-|1/3||1.89|
-|0.77|
+1.89|
+|---:|---:|
+|1/3||0.77|
 |0.32|
 	
 |0.63|
