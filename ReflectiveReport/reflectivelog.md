@@ -252,6 +252,16 @@ Medium: R9, R2, R7, R3
 
 Low: R5, R4.
 
+**Lessons Learned:**
+
+While I was implementing this technique just for 9 requirements I got off the track at times and got mislead due to the simple but complex looking calculations. Looking at this I could figure out how daunting this would be for requirements of the order of 1000 where the companies implementing LSRE or MDRE face. 
+
+Without the aid of proper tools this task can prove to be a nightmare for the requirement analysts, product managers, etc. Coming to the experinece and lessons learned as a part of implementing this method is that it is not so easy as it looks. But with proper concentration and knowledge this task could be done with effeciency and is reliable in giving valid results.
+
+**Reflections:**
+
+I had a good experience working with this technique. It was interesting and challenging to use and at the same time simple to understand. It hardly took time for me to learn the concept behind this prioritisation technique. However my experiences incline towards what the author of article [2] says. There are examples of two case studies carried out by the implementation this technique which showed positive results towards the end of the requirements phase of each project.
+
 ##References:
 [1] Khurum, Mahvish, Khurum Aslam, and Tony Gorschek. "A method for early requirements triage and selection utilizing product strategies." Software Engineering Conference, 2007. APSEC 2007. 14th Asia-Pacific. IEEE, 2007.
 
