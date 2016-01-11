@@ -61,8 +61,8 @@ Then find the sum of each row in the matrix and divide each element by the numbe
 |0.77|
 |0.32|
 
-|---|	
 |0.63|
+|---|
 |0.25|
 |0.11|
 	
@@ -83,23 +83,22 @@ Multiply both matrices to find the value of λmax.
 |R3	|1/5	|1/3	|1 |
 
 
-|---|	
 |0.63|
+|---|
 |0.25|
 |0.11|
 
 Which results in 
-|---|
+
 |5.69|
+|---|
 |1.08|
 |0.18|
 
-
-
-
 Then divide the first element of the resulting vector by the first element im primary vector.
-|---|
+
 |(5.69/0.63)=9.03|
+|---|
 |(1.08/0.25)=4.32|
 |(0.18/0.11)=1.63|
 Then we find the value of λmax as : 
@@ -112,6 +111,7 @@ Finally we find the consistency ratio
 CR = CI/ RI
 
 RI indices for matrices are as given below:
+
 |1	| 2	|3 	|4 	|5	 |6 |7 	|8       |  9      |10      | 11      |12    |13   |  14  |   15|
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |0.00 | 0.00| 0.58|0.90| 1.12|1.24| 1.32|1.41|1.45|1.49|1.51|1.48|1.56|1.57|1.59|
