@@ -274,6 +274,28 @@ In the context of market analysis and requirements management we come across the
 
 A release plan is a result of these roadmaps where a list of requirements are taken, then prioritized and it is made sure that there is a stable working product at the end of each release. 
 
+**Paper 4:**
+
+[3] Bjarnason, Elizabeth, Krzysztof Wnuk, and Björn Regnell. "Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering." Information and Software Technology 54.10 (2012): 1107-1124.
+
+Scope management is most crucial part of the market driven requirement engineering. Several research studies have proven that scope creeps in the very large project can affect the project success but no research has been focused on the issues and factors that are responsible for concept of over scoping. This particular article focuses on understanding the factors responsible for over scoping, what the results of over scoping are and how does agile requirement engineering concepts have an impact on over scoping. From the related work it’s evident that over scoping is considered as one of the major risk factor in the whole requirement engineering phase. Communication gaps and other non-technical concepts impact the scope of the project. A case study is conducted by formulating the hypotheses to find the answers to the research questions. From the interviews few causes were taken into consideration like continuous requirements inflow via multiple channels, no overview of software resource availability, unclear vision of overall goals. Effects of over scoping are communication gaps, quality issues, expectations of the customers are not met and delays. It has been identified that agile RE practices also impact the over scoping in many ways that been proven from the case study results.
+
+From the study it is found that over scoping can affect the overall project development as the RE is considered to be one of the most crucial part of decision making. The study suggests various different factors of the over scoping and effect of the over scoping have been mentioned. This particular paper could be helpful for the organisations to understand the concept of over scoping and its effects and also plan the project scope especially for market driven requirement engineering.
+
+Scoping in the market driven is a continuous process and exists throughout the project scope of the project has to be manged or else may lead to over scoping which may affect the whole project therefore well said “the project bites off more than it can chew”. Scoping definitely most challenging part requirement engineering and a project management risk in most of the software projects. Over scoping also leads to more over scoping and the project enters into the vicious cycle. The most predominant factor could be communication gaps which in turn causes more over scoping. The literature finally draws the attention of scoping as a major challenge in market driven fast moving requirement engineering.
+
+**Paper 6:**
+
+[4] Carlshamre, Pär, et al. "An industrial survey of requirements interdependencies in software product release planning." Requirements Engineering, 2001. Proceedings. Fifth IEEE International Symposium on. IEEE, 2001.
+
+Incremental systems have gained more importance in the recent times. Prioritisation of the requirements plays a major role in the increment development. Less research is done in the area of requirement interdependencies. This research paper focuses on the visualisation of requirement interdependencies. Five different cases were considered to find out the requirement interdependencies like small size companies, medium size companies, a telecommunication system, a software research institute and medium size company. Few examples were taken to find out the interdependencies by using the relationship like OR, AND, TEMPORAL, CVALUE, ICOST.
+
+At the beginning of the each and every interdependencies are explained. It was observed that no particular conflicting dependencies were found in all the cases. It concludes that the conflicting dependencies are eliminated. Dependencies play a major role in the release planning in the incremental development but they are not mentioned directly. This particular study has concluded that singular requirements have no relationship with any other requirements. Requirements having relation with other requirements are easily identified. Clusters of requirements are used in case of incremental development.
+
+In this particular study singular requirements are calculated using a specified formula, the highly dependent requirements have been identified .It has been stated that if there are more than 20% dependent requirements may lead to potential problems for the incremental development. An interdependency could be measured by using the coupling which is similar to the coupling in the design phase. Coupling measures the strength between the entities and low coupling means high modularity. Different functions have been generated to calculate the requirements coupling and release coupling.
+
+From the present paper draws the attention to most important aspect of release planning that is the interdependencies, it has specified the concept of requirement coupling and release coupling could be most important while considering the interdependencies during the release planning. It also evident that visualisation techniques as a powerful means for partitioning the requirements. For this very particular reason dependencies are most important to consider during the release planning.
+
 #Seminar 3: 
 
 ###Summaries:
