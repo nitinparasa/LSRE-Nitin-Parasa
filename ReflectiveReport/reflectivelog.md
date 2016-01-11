@@ -65,7 +65,7 @@ Step 2.3: Next we perform the averaging method to determine the eigen values of 
 |R1	|0.09|0.25|0.24|0.12|0.21|0.03|0.11|0.07|0.21
 |R2	|0.03|0.08|0.14|0.12|0.09|0.02|0.11|0.11|0.21
 |R3	|0.018|0.02|0.04|0.21|	0.15|	0.03|	0.11|	0.07|	0.02
-|R4	|0.03|0.02	|0.00|	0.04|	0.09|	0.03|	0.11|	0.07|	0.02
+|R4	|0.03|0.02	|0.009|	0.04|	0.09|	0.03|	0.11|	0.07|	0.02
 |R5	|0.013|0.02|	0.009|	0.01|	0.03|	0.03|	0.11|	0.05|	0.02
 |R6	|0.28|0.25|	0.14|	0.12|	0.09|	0.11|	0.012|	0.07|	0.21
 |R7	|0.03|0.02|	0.015|	0.01|	0.01|	0.33|	0.03|	0.07|	0.01
@@ -75,58 +75,100 @@ Step 2.3: Next we perform the averaging method to determine the eigen values of 
 
 Then find the sum of each row in the matrix and divide each element by the number of requirements:
 
-|1/9 |1.89|
+|1/9 |1.14|
 |---:|---:|
-|    |0.77|
-|    |0.32|
-|    |0.32|
-|    |0.32|
-|    |0.32|
-|    |0.32|
-|0.63|
-|---|
-|0.25|
-|0.11|
+|    |0.91|
+|    |0.668|
+|    |0.42|
+|    |0.292|
+|    |1.282|
+|    |0.525|
+|    |2.38|
+|    |0.79|
+
+
+|0.126|
+|---:|
+|0.101|
+|0.074|
+|0.046|
+|0.032|
+|0.142|
+|0.058|
+|0.264|
+|0.087|
 	
 Step 2.4: Assign the relative value to each requirement basing on the eigen value obtained above.
--	R1 contains 63 percent of the requirements’ total value
--	R2 contains 25 percent
--	R3 contains 11 percent.
+-	R1 contains 13 percent of the requirements’ total value
+-	R2 contains 10 percent
+-	R3 contains 7 percent
+-	R4 contains 5 percent
+-	R5 contains 3 percent
+-	R6 contains 14 percent
+-	R7 contains 6 percent
+-	R8 contains 26 percent
+-	R9 contains 9 percent
 
 Then we find out the result consistency just to confirm if we were able to determine the relative value efficiently.
 
 Next we have to find the Consistency Index: CI = (λmax − n)/(n − 1)   
 
 Multiply both matrices to find the value of λmax.
-|       |R1	|R2	|R3|
-| --- |:---:| ---:|---:|
-|R1	|1	|3	|5 |
-|R2	|1/3	|1	|3 |
-|R3	|1/5	|1/3	|1 |
+|       |R1	|R2	|R3|R4|R5|R6|R7|R8|R9|
+| --- |:---:| ---:|---:|---:|---:|---:|---:|---:|---:|
+|R1	|1	|3	|5 |3|7|1/3|3|1/5|3
+|R2	|1/3	|1	|3 |3|3|1/5|3|1/3|3
+|R3	|1/5	|1/3	|1 |5|5|1/3|3|1/5|1/3
+|R4	|1/3|1/3|1/5|1|3|1/3|3|1/5|1/3
+|R5	|1/7|1/3|1/5|1/3|1|1/3|3|1/7|1/3
+|R6	|3|3|3|3|3|1|1/3|1/3|3
+|R7	|1/3|1/3|1/3|1/3|1/3|3|1|1/5|1/5
+|R8	|5|3|5|5|7|3|5|1|3
+|R9	|1/3|1/3|3|3|3|1/3|5|1/3|1
 
 
-|0.63|
-|---|
-|0.25|
-|0.11|
+|0.126|
+|---:|
+|0.101|
+|0.074|
+|0.046|
+|0.032|
+|0.142|
+|0.058|
+|0.264|
+|0.087|
 
 Which results in 
 
-|5.69|
+|3.323|
 |---|
-|1.08|
-|0.18|
+|1.704|
+|1.142|
+|0.406|
+|0.188|
+|2.781|
+|0.352|
+|9.784|
+|1.432|
 
 Then divide the first element of the resulting vector by the first element im primary vector.
 
-|(5.69/0.63)=9.03|
-|---|
-|(1.08/0.25)=4.32|
-|(0.18/0.11)=1.63|
-Then we find the value of λmax as : 
-λmax = (9.03 + 4.32 + 1.63)/3 = 4.99
+|25.53|
+|---:|
+|16.86|
+|15.39|
+|8.72|
+|5.8|
+|19.53|
+|6.05|
+|37|
+|16.32|
 
-CI = (λmax-n)/(n-1) = (4.99 – 3)/ (3-1) = 1.99/2 = 0.99
+
+Then we find the value of λmax as : 
+λmax = (25.53+16.86+15.39+8.72+5.8+19.53+6.05+37+16.32)/9 = 16.7778
+
+CI = (λmax-n)/(n-1) = (16.7778 – 9)/ (9-1) = 7.778/8 = 0.97
 
 Finally we find the consistency ratio 
 
@@ -138,5 +180,9 @@ RI indices for matrices are as given below:
 |---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 |0.00 | 0.00| 0.58|0.90| 1.12|1.24| 1.32|1.41|1.45|1.49|1.51|1.48|1.56|1.57|1.59|
 
-CR = 0.99/0.58 = 1.7 which is not a good value but is occurs very frequently when people apply this method.
+CR = 0.97/1.45 = 0.66 which is a reasonable value but is occurs very frequently when people apply this method. Generally a value of 0.1 or lower is acceptable.
+
+Similarly we perform the Cost implementation technique and find out the relative values as performed for value.
+
+The relative costs obtained are:
 
