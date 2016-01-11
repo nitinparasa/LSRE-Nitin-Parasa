@@ -31,26 +31,32 @@ I plan to take 3 requirements and carry out this technique. The reason I am taki
 R1: As a user, I must be able to login to the system.
 R2: As a user, I want to have a responsive interface so that I have good user experience.
 R3: As a user, I want to view a catalog of all places, so that I can get to know of all the places in the selected country.
-R4:
-R4
-R4
-R4
-R4
-R4
+R4: As a user, I want to have a filter function so that I can specifically view place that suit my interest.
+R5: As a user, I want to add my places of interest to a wishlist, so that I can refer to them later.
+R6: As a system, I want to authenticate users via e-mail, so that the user is verified.
+R7: As a user, I want a complete description page so that I can view important information about places.
+R8: As a user, I want to register and signup so that user can access profile.
+R9: As a system, I want to maintain session data, so that the user data is dynamically available for all pages.
 
 Step 1: All requirements are clearly understood and written as per standards.
 
 Step 2: Carry out the AHP process:
 
-Step 2.1: Set up 3*3 matrix.
+Step 2.1: Set up 9*9 matrix.
 
 Step 2.2: Perform Pairwise comparisons: 
 
-|       |R1	|R2	|R3|
-| --- |:---:| ---:|---:|
-|R1	|1	|3	|5 |
-|R2	|1/3	|1	|3 |
-|R3	|1/5	|1/3	|1 |
+|       |R1	|R2	|R3|R4|R5|R6|R7|R8|R9|
+| --- |:---:| ---:|---:|---:|---:|---:|---:|---:|---:|
+|R1	|1	|3	|5 |3|7|1/3|3|1/5|3
+|R2	|1/3	|1	|3 |3|3|1/5|3|1/3|3
+|R3	|1/5	|1/3	|1 |5|5|1/3|3|1/5|1/3
+|R4	|1/3|1/3|1/5|1|3|1/3|3|1/5|1/3
+|R5	|1/7|1/3|1/5|1/3|1|1/3|3|1/7|1/3
+|R6	|3|3|3|3|3|1|1/3|1/3|3
+|R7	|1/3|1/3|1/3|1/3|1/3|3|1|1/5|1/5
+|R8	|5|3|5|5|7|3|5|1|3
+|R9	|1/3|1/3|3|3|31/|5|1/3|1
   
 Step 2.3: Next we perform the averaging method to determine the eigen values of the matrix.
 
