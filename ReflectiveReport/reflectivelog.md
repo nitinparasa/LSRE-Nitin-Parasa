@@ -41,6 +41,7 @@ Step 2.1: Set up 3*3 matrix.
 Step 2.2: Perform Pairwise comparisons: 
 
 |       |R1	|R2	|R3|
+| ----- |:-----:| -----:|-:|
 |R1	|1	|3	|5 |
 |R2	|1/3	|1	|3 |
 |R3	|1/5	|1/3	|1 |
