@@ -13,6 +13,8 @@ Found out requirements to implement this technique but I am not have that clear 
 
 Then I changed to implement this technique [2]. As I was reading the article it drew my whole attention towards it be it because of the mathematical calculations. Moreover not much research has been done in this area.
 
+For the second article I chose to implement the Requirements Abstraction Model (RAM) which has been first discussed in the study of Tony Gorschek and Claes Wohlin [3].
+
 #Reflective Report:
 
 **23-December-2015**
@@ -39,13 +41,21 @@ I plan to take 3 requirements and carry out this technique. The reason I am taki
 
 **Execution and Proof of Concept:**
   The requirements gathered are a part of the travel guide website where users can enter the system view various places and add the places they would like to visit in the future into their favourites list which will be stored for each and every user. They are: 
+
 R1: As a user, I must be able to login to the system.
+
 R2: As a user, I want to have a responsive interface so that I have good user experience.
+
 R3: As a user, I want to view a catalog of all places, so that I can get to know of all the places in the selected country.
+
 R4: As a user, I want to have a filter function so that I can specifically view place that suit my interest.
+
 R5: As a user, I want to add my places of interest to a wishlist, so that I can refer to them later.
+
 R6: As a system, I want to authenticate users via e-mail, so that the user is verified.
+
 R7: As a user, I want a complete description page so that I can view important information about places.
+
 R8: As a user, I want to register and signup so that user can access profile.
 R9: As a system, I want to maintain session data, so that the user data is dynamically available for all pages.
 
@@ -240,3 +250,8 @@ High: R1, R6, R8
 Medium: R9, R2, R7, R3
 
 Low: R5, R4.
+
+##References:
+[1] Khurum, Mahvish, Khurum Aslam, and Tony Gorschek. "A method for early requirements triage and selection utilizing product strategies." Software Engineering Conference, 2007. APSEC 2007. 14th Asia-Pacific. IEEE, 2007.
+[2] Karlsson, Joachim, and Kevin Ryan. "A cost-value approach for prioritizing requirements." Software, IEEE 14.5 (1997): 67-74.
+[3] Gorschek, Tony, and Claes Wohlin. "Requirements abstraction model." Requirements Engineering 11.1 (2006): 79-101.
