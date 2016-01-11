@@ -48,7 +48,8 @@ Step 2.2: Perform Pairwise comparisons:
   
 Step 2.3: Next we perform the averaging method to determine the eigen values of the matrix.
 
-	|R1	|R2|R3|
+|R1	|R2|R3|
+|---:|---:|---:|---:|
 |R1|	0.65|	0.69|	0.55|
 |R2|	0.21|	0.23|	0.33|
 |R3|	0.13|	0.08|	0.11|
