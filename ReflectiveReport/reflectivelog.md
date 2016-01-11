@@ -81,6 +81,8 @@ Then find the sum of each row in the matrix and divide each element by the numbe
 |    |0.32|
 |    |0.32|
 |    |0.32|
+|    |0.32|
+|    |0.32|
 |0.63|
 |---|
 |0.25|
