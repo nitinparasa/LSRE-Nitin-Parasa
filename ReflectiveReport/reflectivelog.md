@@ -30,7 +30,13 @@ I plan to take 3 requirements and carry out this technique. The reason I am taki
   The requirements gathered are a part of the travel guide website where users can enter the system view various places and add the places they would like to visit in the future into their favourites list which will be stored for each and every user. They are: 
 R1: As a user, I must be able to login to the system.
 R2: As a user, I want to have a responsive interface so that I have good user experience.
-R3: As a user, I want to view a catalog of all places, so that I can get to know of all the places in the selected country. 
+R3: As a user, I want to view a catalog of all places, so that I can get to know of all the places in the selected country.
+R4:
+R4
+R4
+R4
+R4
+R4
 
 Step 1: All requirements are clearly understood and written as per standards.
 
@@ -58,8 +64,8 @@ Then find the sum of each row in the matrix and divide each element by the numbe
 
 |1/3|1.89|
 |---:|---:|
-|0.77|
-|0.32|
+||0.77|
+||0.32|
 
 |0.63|
 |---|
