@@ -55,14 +55,13 @@ Step 2.3: Next we perform the averaging method to determine the eigen values of 
 |R3|	0.13|	0.08|	0.11|
 	
 Then find the sum of each row in the matrix and divide each element by the number of requirements:
-	
 
-
-1.89|
+|1/3|1.89|
 |---:|---:|
-|1/3||0.77|
+|0.77|
 |0.32|
-	
+
+|---|	
 |0.63|
 |0.25|
 |0.11|
@@ -71,20 +70,26 @@ Step 2.4: Assign the relative value to each requirement basing on the eigen valu
 -	R1 contains 63 percent of the requirements’ total value
 -	R2 contains 25 percent
 -	R3 contains 11 percent.
+
 Then we find out the result consistency just to confirm if we were able to determine the relative value efficiently.
+
 Next we have to find the Consistency Index: CI = (λmax − n)/(n − 1)   
+
 Multiply both matrices to find the value of λmax.
-	|R1|	R2|	R3|
-|R1	|1	|3	|5|
-|R2	|1/3|	1	|3|
-|R3	|1/5|	1/3	|1|
+|       |R1	|R2	|R3|
+| --- |:---:| ---:|---:|
+|R1	|1	|3	|5 |
+|R2	|1/3	|1	|3 |
+|R3	|1/5	|1/3	|1 |
 
 
+|---|	
 |0.63|
 |0.25|
 |0.11|
 
 Which results in 
+|---|
 |5.69|
 |1.08|
 |0.18|
@@ -93,6 +98,7 @@ Which results in
 
 
 Then divide the first element of the resulting vector by the first element im primary vector.
+|---|
 |(5.69/0.63)=9.03|
 |(1.08/0.25)=4.32|
 |(0.18/0.11)=1.63|
@@ -100,10 +106,15 @@ Then we find the value of λmax as :
 λmax = (9.03 + 4.32 + 1.63)/3 = 4.99
 
 CI = (λmax-n)/(n-1) = (4.99 – 3)/ (3-1) = 1.99/2 = 0.99
+
 Finally we find the consistency ratio 
+
 CR = CI/ RI
+
 RI indices for matrices are as given below:
-|1	| 2	|3 	|4 	|5	 |6 |7 	|8       |  9      |10      | 11      |12    |13   |  14  |   15
-|0.00 | 0.00| 0.58|0.90| 1.12|1.24| 1.32|1.41|1.45|1.49|1.51|1.48|1.56|1.57|1.59
+|1	| 2	|3 	|4 	|5	 |6 |7 	|8       |  9      |10      | 11      |12    |13   |  14  |   15|
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|0.00 | 0.00| 0.58|0.90| 1.12|1.24| 1.32|1.41|1.45|1.49|1.51|1.48|1.56|1.57|1.59|
+
 CR = 0.99/0.58 = 1.7 which is not a good value but is occurs very frequently when people apply this method.
 
