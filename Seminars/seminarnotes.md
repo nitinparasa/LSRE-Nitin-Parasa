@@ -210,6 +210,41 @@ The basic reference framework is based upon the basic objects of product managem
 
 Next a brief description on the reference framework and its components is given. Portfolio management deals with the decision making on the product. In this framework this is right on the top with four main processes of life cycle management and market trend identification. Product road mapping is the scientific use of resources elements and structural dependencies for the future or a period of time. Requirements Gathering often starts with gathering the requirements and then translated to product requirements and then the duplicates are removed and finally the requirements are organized as per product and core asset. After all this is done then we group these set of requirements into different release which make up the process of release planning.
 
+**Paper 2:**
+
+This paper mainly focuses on the challenges that companies face in the Market Driven Requirements Engineering Context (MDRE). In MDRE different key features are roadmapping, release planning, requirements management, etc. An industrial example of a release planning process is elaborated in this article for a clear understanding for the reader. Every organization needs to answer three basic questions in order to be successful in developing products for open market. They are: 
+
+1. How to design and manage an MDRE process?
+
+2. How to design and manage a MDRE repository? and  
+
+3. How to make efficient and profitable release planning?
+
+Software product usually exist in number of variants. But there are two dimensions for the classification of software products. They are: 1. Degree of customization 2. Hardware and Software content. Furthermore the degree of customization is divided into three levels. Generic level product is used as-is with minimal configurations to be done by the end-user. A customized product is useful after it has been developed according to the needs of a specific customer. Finally a customer specific product is the one developed solely for one particular customer. In the same way even the software/hardware content is divided into three classes namely the pure hardware products which are fixed through the hardware architecture, embedded systems consisting of both hardware platform and embedded software and pure software products which is completely comprised of software independent of the hardware. In MDRE context key characteristics are that the requirements have to informally discussed while having a continuous flow of requirements throughout the lifecycle and the organization taking risks alongside the decisions in the key activities and eventually focussing on time-to-market and return-of-investment. Whether it is MDRE or a classical bespoke project the main goal is to deliver the product at the right time and it right condition to withstand the heavy competition. Success in MDRE can be determined by the sales, market share, reviews, etc.  
+
+Challenges faced in MDRE: A number of challenges are identified with the results based on the interviews at different companies of varying size and maturity. The most noted challenges and a brief description about each is given: 
+
+1. Balancing market pull and technology push: a good balance between technology-driven and needs-driven requirements is a delicate challenge and has to be dealt carefully.
+
+2. Chasm between marketing and development: Communication between the group of workers has to be enhanced which further improves the quality of the software.
+
+3. Organizational instability and market turbulence: Key persons leaving the organizations often deal with the risk lacking necessary documentation and structure.
+
+4. Simple tools for basic needs: Simple tools are always favoured by most of the companies as this is easy to use and at times it is challenging to find complex data.
+
+5. Requirements Dependencies: Release planning becomes more and more complex as the dependencies between the requirements keep of increasing. Efficient ways to handle these dependencies have to evolve.
+
+6. Cost-Value estimation and release planning: Cost and value estimates have to be carefully estimated by the responsible team. Underestimation may lead to several issues like missing the deadlines, cost overruns, etc.
+
+7. Overloaded Requirements management.
+
+The key issue for a market-driven company is to continuously improve to overcome these challenges and stay ahead of the competitors. The MDRE process is a way of synchronizing the work of the project with the constantly evolving requirements and working with the releases. The key driving forces for communicating the goals in MDRE are product roadmapping and release plan of the product. Looking at the quality of process carried out the success of the product can be determined. There are usually two types of requirements, they are: 1. Alfa requirements and beta requirements. An alfa requirement has high inherent quality which usually exists for an ideal requirement.  A beta requirement are the ideal forms of requirements that should be rejected. The decision outcomes can be used to define the metrics to characterize a product and decision quality. If there is a correct selection ratio then the requirements are selected and rejected if not met.
+
+In the context of market analysis and requirements management we come across the concepts of Road Map and Release Plan. A brief overview and the author’s understanding are given below. To withstand the heavy competition is evident that the companies must foresee the future and understand the user’s needs and prepare a plan accordingly. A typical roadmap is a document which outlines these details, to be specific it could contain details like the list of product releases for the next five years. Four types of roadmaps can be developed. They are: 
+
+1. Science or Technology Roadmap 2. Industry Technology Roadmap 3. Corporate Roadmap 4. Product or Portfolio Management Roadmap
+
+A release plan is a result of these roadmaps where a list of requirements are taken, then prioritized and it is made sure that there is a stable working product at the end of each release. 
 
 #Seminar 3: 
 
