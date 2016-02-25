@@ -30,3 +30,24 @@ Customer Value Analysis (CVA) is a technique that helps in assessing the positio
 
 Internal Value Analysis (IVA) unlike the GAP or CVA is mainly used for checking if the product is in line with the strategies of the company along with several criteria like money, time, etc. taken into account.
 
+#Seminar 2:
+
+### Questions:
+
+1. How do you connect your requirements to your architecture?
+
+2. Can you connect all requirements directly? What do you do if you cannot?
+
+### Summaries: 
+
+Paper 5: In market driven requirements engineering, it is very essential to align the content that a product has with the needs of the customer to enable a profitable product. For the various requirements constituting during the development of the product, the selection process of these requirements is a challenging task. In this paper the authors perform a retrospective analysis on the decision making process in a typical large scale project. They aim at identifying characteristics that influence the decision lead-time and eventually the decision outcome. Decision-lead time in this scenario is the time that is required to analyse the impact of a decision from the time it has been reported. Customer requirements change very frequently and deciding upon these changes is very crucial to stay alive in the market. Identifying the factors affecting the decision-lead time and it outcome is of prime interest. A few characteristics identified in the paper are: 1. Number of product 2. Release number 3. Type of customer. Requirements Engineering decision makers face a lot of challenges like constant competitive goals and values, improperly defined requirements, politics influencing the decision-making process.  A few additional challenges can be as follows: 
+
+1. Time stress 
+2. Organizational goals
+3. Incomplete information
+4. Product Maturity
+5. Uncertain environments
+
+The case company that has been investigated in this article has more functionalities which has led to the delay in the release than for the later releases. The results of the survey show that there is a positive relationship between the decision lead-time and the number of products affected by that corresponding decision. This is negligible for large scale project but shows significant impact with an increase in the medium scale or small scale projects. The authors found out that the number of functionalities doesn’t affect the decision outcome as the time taken for a decision is the same for all releases. The type of customer influencing the lead time for a decision is like, for small scale companies the customers are given importance but when in the case of market driven project not much importance is given to the customer. 
+
+The results from this study could not be generalised for the total community as this is a case study. Moreover it is stated that the respondents to the survey work in bespoke projects and the studied company executes market driven project.  Other characteristics like the number of stakeholders involved could also be investigated but due to lack of data they have not been considered. A future work as mentioned by the authors could be going into more depth about knowing the possible relationships among requirements engineering decision making characteristics.
