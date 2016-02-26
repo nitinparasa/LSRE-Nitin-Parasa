@@ -40,7 +40,28 @@ Internal Value Analysis (IVA) unlike the GAP or CVA is mainly used for checking 
 
 ### Summaries: 
 
-Paper 5: In market driven requirements engineering, it is very essential to align the content that a product has with the needs of the customer to enable a profitable product. For the various requirements constituting during the development of the product, the selection process of these requirements is a challenging task. In this paper the authors perform a retrospective analysis on the decision making process in a typical large scale project. They aim at identifying characteristics that influence the decision lead-time and eventually the decision outcome. Decision-lead time in this scenario is the time that is required to analyse the impact of a decision from the time it has been reported. Customer requirements change very frequently and deciding upon these changes is very crucial to stay alive in the market. Identifying the factors affecting the decision-lead time and it outcome is of prime interest. A few characteristics identified in the paper are: 1. Number of product 2. Release number 3. Type of customer. Requirements Engineering decision makers face a lot of challenges like constant competitive goals and values, improperly defined requirements, politics influencing the decision-making process.  A few additional challenges can be as follows: 
+**Scaled Agile Framework:** [SAFe4.0](http://www.scaledagileframework.com/)
+
+Scaled Agile Framework (SAFe) is an online, freely available knowledge platform consisting of successful patterns of implementing Lean-Agile software development. This framework acts as a guidance for those implementing projects using Lean-Agile methodologies. Companies implementing these techniques have seen a substantial increase in the productivity, quality, time to market and other crucial attributes. This framework has been founded by Dean Leffingwell. A brief preview about this framework is as follows. This framework consists of three main levels and one sub level. They are:
+
+**1. Portfolio:**
+
+It is the guidance for strategy formulation and portfolio communication along with organizing, managing the flow of larger initiatives and governance. This level consists of release of Epics, how the architecture keeps evolving and the product management coordinates. There is a portfolio backlog which consists of the present and future epics. Portfolio metrics is where different measures for lean portfolio, Kanban and the progress of epics is present. This can be depicted using burndown and burnup chart plots.
+
+**2. Value Stream:**
+
+This is a kind of a solution platform to the ones building large software and systems. Guidance can include Solution intent, management, engineering and architecture and most importantly value stream coordination.
+
+**3. Program:**
+
+This level describes about the Agile release trains, the agile teams that build the solutions. The main purpose of agile release trains is to align the teams to a common mission and provide architectural and user experience governance. This level deals with the social dimension of the scaling problem. This level consists of various technical people like the developers, architects, designers and customers. The features a products must have or popularly termed as Release Planning is done here by the professionals ending with working product demos. A typical agile release train is a combination of all these activities.  
+
+**4. Team:**
+
+SAFe teams are similar to the ones in Scrum. They are self-organizing, self-managing, and cross-functional teams. A typical team consists of Product owner, Scrum master and the team members. SAFe applies Scrum, XP and Kanban. They are reliable in delivering valuable, tested and working software systems on a regular basis. Continuous integration is a part of the development process in these teams to measure the quality of the product. 
+
+**Paper 5:** 
+In market driven requirements engineering, it is very essential to align the content that a product has with the needs of the customer to enable a profitable product. For the various requirements constituting during the development of the product, the selection process of these requirements is a challenging task. In this paper the authors perform a retrospective analysis on the decision making process in a typical large scale project. They aim at identifying characteristics that influence the decision lead-time and eventually the decision outcome. Decision-lead time in this scenario is the time that is required to analyse the impact of a decision from the time it has been reported. Customer requirements change very frequently and deciding upon these changes is very crucial to stay alive in the market. Identifying the factors affecting the decision-lead time and it outcome is of prime interest. A few characteristics identified in the paper are: 1. Number of product 2. Release number 3. Type of customer. Requirements Engineering decision makers face a lot of challenges like constant competitive goals and values, improperly defined requirements, politics influencing the decision-making process.  A few additional challenges can be as follows: 
 
 1. Time stress 
 2. Organizational goals
