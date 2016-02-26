@@ -42,9 +42,11 @@ All the answers for the seminar questions are available from the articles given 
 
 ### Questions:
 
-1. How do you connect your requirements to your architecture?
+1. Can you connect all requirements directly? What do you do if you cannot?
 
-2. Can you connect all requirements directly? What do you do if you cannot?
+According to De Boer et al. [1] requirements which can be related to the architectural level can only be connected to the systems architecture. Not all requirements can be connected. Being related to architectural level in this context means that they being not detailed enough. If in a case where the requirements can’t be connected to the architecture then it is mandatory to detail the enough so that these requirements can then be connected to the systems architecture.
+
+[1]De Boer, Remco C., and Hans Van Vliet. "On the similarity between requirements and architecture." Journal of Systems and Software 82.3 (2009): 544-550.
 
 ### Summaries: 
 
