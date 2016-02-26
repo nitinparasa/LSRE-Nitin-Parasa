@@ -12,6 +12,10 @@ Requirements Engineering for the development of complex software systems for lar
 
 Performing these activities eventually increases the amount of information being stored in the databases dealing with requirements of the order of thousands. Managing, controlling, assessing these requirements in the industry can be termed as Large Scale Requirements Engineering.
 
+### Reflections:
+
+The articles given for this seminar mostly stressed on release planning and a detailed understanding on an industrial model named QUPER for the evaluation of quality requirements. However the article written by Bjorn Regnell gives a clear idea of what Large Scale requirements or Market driven requirements engineering is. Using this paper additional articles were found which helped in answering the seminar discussion questions. One written by Konrad S and the other by R.B. Svensson et al. stress on the challenges and the details into Large Scale Requirements Engineering. All the articles have been useful in actively participating for the next seminar which concentrated on the basics of market driven requirements engineering and the challenges involved and dealing with MD RE.  
+
 #Seminar 1: 
 
 ### Questions:
@@ -29,6 +33,10 @@ Customer Value Analysis (CVA) is a technique that helps in assessing the positio
 **IVA:**
 
 Internal Value Analysis (IVA) unlike the GAP or CVA is mainly used for checking if the product is in line with the strategies of the company along with several criteria like money, time, etc. taken into account.
+
+###Reflections: 
+
+All the answers for the seminar questions are available from the articles given for the full-text reading. GAP analysis was briefly described by Tony Gorschek & Davis in their paper “Requirements Engineering. In search of dependent variables.” Using this information detailed information has been extracted from other sources available online. In the case of tools available for continuous integration none of the paper highlight about this. Information for this had to be gathered online from different websites. Two articles from seminar 2 were helpful in gathering information about Technical Product Management and Roadmapping. Brinkkemper, Weerd and Regnell have made good contribution in this field of market driven requirements engineering and different techniques involved in this. Other articles include the Requirements Abstraction Model which is written in the at the most detailed level explaining its readers about the problems companies face while collecting requirements and then assessing them and further grouping them or placing them at different levels of abstractions. Another article by Jaochim Karlsson about another technique used for MDRE namely the Cost Value approach is another detail article running through each and every concept involved for the classification of the requirements.  
 
 #Seminar 2:
 
@@ -72,3 +80,19 @@ In market driven requirements engineering, it is very essential to align the con
 The case company that has been investigated in this article has more functionalities which has led to the delay in the release than for the later releases. The results of the survey show that there is a positive relationship between the decision lead-time and the number of products affected by that corresponding decision. This is negligible for large scale project but shows significant impact with an increase in the medium scale or small scale projects. The authors found out that the number of functionalities doesn’t affect the decision outcome as the time taken for a decision is the same for all releases. The type of customer influencing the lead time for a decision is like, for small scale companies the customers are given importance but when in the case of market driven project not much importance is given to the customer. 
 
 The results from this study could not be generalised for the total community as this is a case study. Moreover it is stated that the respondents to the survey work in bespoke projects and the studied company executes market driven project.  Other characteristics like the number of stakeholders involved could also be investigated but due to lack of data they have not been considered. A future work as mentioned by the authors could be going into more depth about knowing the possible relationships among requirements engineering decision making characteristics.
+
+###Reflections: 
+
+The seminar discussions included of Boston Matrix and about the connection of requirements with the architecture of the software. None of the articles in the seminars discussed about these issues. They being general areas of interest, information had to be gathered from external sources. But the articles written by Brinkkemper and Wnuk gave a good idea on different techniques that are currently being implemented in market driven requirements engineering context. Another article by P. Calrshamre et al. describes about the interdependencies that exists during the release planning. They have found out different interdependencies like OR, AND, TEMPORAL, CVALUE AND ICOST. Other articles referenced above in this section have been used to gain knowledge regarding how requirements engineering and software architecture can be connected together. When it comes to the case of Portfolio management “Scaled Agile Framework” by Dean Leffingwell gives very detailed description and gives good understanding.
+
+#Seminar 3: 
+
+### Reflections:
+
+About the team dynamics and the project related issues Scaled Agile Framework could be one possible development methodologies. This has proved to be an efficient framework wherein companies observed substantial increase in the quality of their products after the incorporation of this method. 
+
+#Seminar 4: 
+
+### Reflections:
+
+The article “What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting” by Wnuk et al. gives a very detailed description on the scope changes that can frequently take place in large scale projects. Further discussion on the scope changes likely to happen and supporting a released requirements can be based on this study. For quality requirements a lot of articles by various authors augment this field of study. The one by Richard Berntsson Svensson “Quality Requirements in Industrial Practice – an extended interview study at eleven companies” are a start guide to base this discussion on quality requirements impacting other requirements, dealing with them and how they evolve over time. Additional studies exists too and could be found from the above articles also.
