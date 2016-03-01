@@ -42,11 +42,17 @@ All the answers for the seminar questions are available from the articles given 
 
 ### Questions:
 
-1. Can you connect all requirements directly? What do you do if you cannot?
+1. How do you connect your requirements to your architecture?
+
+The author of [2] has described about a method whose functionality is to connect the requirements to the architecture of the software being developed. With the help of architecture the software being built can be communicated to stakeholders in an efficient way. The author mentions about Goal Graph Based Reasoning where requirements are furnished for an attempt to connect requirements with architecture design. Initially the requirements are to be represented as design goals, then relationships have to be identified. Based on the goals the architecture design is done. Pattern based Architecture design is one method mentioned here which can be used to design architecture from design.
+
+2. Can you connect all requirements directly? What do you do if you cannot?
 
 According to De Boer et al. [1] requirements which can be related to the architectural level can only be connected to the systems architecture. Not all requirements can be connected. Being related to architectural level in this context means that they being not detailed enough. If in a case where the requirements can’t be connected to the architecture then it is mandatory to detail the enough so that these requirements can then be connected to the systems architecture.
 
 [1]De Boer, Remco C., and Hans Van Vliet. "On the similarity between requirements and architecture." Journal of Systems and Software 82.3 (2009): 544-550.
+
+[2]Liao, Lin. "From Requirements to Architecture: The State of the Art in Software Architecture Design." Department of Computer Science and Engineering, University of Washington (2002): 1-13.
 
 ### Summaries: 
 
