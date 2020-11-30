@@ -1,18 +1,18 @@
-#Seminar 0:
+# Seminar 0:
 
-###Questions:
+### Questions:
 
 1.	What is Large Scale Requirements Engineering?
 2.	What are the challenges in large scale requirements engineering?
 3.	What is the order of magnitude on the number of requirements we are discussing?
 4.	Read and summarise Release Planning?
 
-###List Of References:
+### List Of References:
 
 [1] Konrad, S.; Gall, M., "Requirements Engineering in the Development of Large-Scale Systems," in International Requirements Engineering, 2008. RE '08. 16th IEEE , vol., no., pp.217-222, 8-12 Sept. 2008
 [2] B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” Lect. Notes Comput. Sci. (including Subser. Lect. Notes Artif. Intell. Lect. Notes Bioinformatics), vol. 5025 LNCS, pp. 123–128, 2008.
 
-###Answers:
+### Answers:
 
 1. Requirements Engineering for the development of complex software systems for large scale industrial project is Large Scale Requirements Engineering.
 
@@ -27,7 +27,7 @@
 
 3. The order of magnitude on the number of requirements addressed in a particular project with repsect to Large scale requirements engineering is of the order of 1000 as stated by B. Regnell et al. in their article [2].
 
-##Summaries:
+## Summaries:
 
 **Paper 1:**  
 
@@ -70,7 +70,7 @@ Research was carried out to find about the QUPER relevance in industrial setting
 - During the selection phase the following steps are implemented: They are selected for the release they are specified with more details and validated. Change management occurs and high priority are taken. The requirements undergo change management, construction, verification and conclusion. 
 - REPEAT is also enacted using different Message Sequencing Charts (SMC).Many challenges also have been identified for REPEAT enactment like overload control, connecting fragments, building the chasm between collection and selection, long term market analysis. 
 
-#Seminar 1:
+# Seminar 1:
 
 [1]Weerd & Brinkkemper “Towards a reference framework for software product management”
 [2] Regnell & Brinkkemper “Market-Driven Requirements Engineering for Software Products” (Chapter 13 in Engineering and Management
@@ -105,7 +105,7 @@ In large scale context the process of Roadmapping can typically take place in fo
 3. Finalization phase: In this pahse the developed roadmap is validated. Then communication takes place both internally and externally i.e within the organization and with the customer.
 4. Follow-Up phase: Here the roadmap is periodically reviewed and updates are made.
 
-###Summaries:
+### Summaries:
 
 **Paper 1:** 
 
@@ -199,9 +199,9 @@ In this cost-value approach to prioritizing the requirements 5 steps are followe
 
 Two case studies have been briefly described by the authors in this article which have used this method for prioritizing their requirements. The three sections of the cost-value graph are nothing but the requirements with a high ratio of value-to-cost are placed in High region and similarly for the other two. One main thing the authors did not consider in this approach is the dependency that exists between the requirements. Usually there exists a lot of complex dependencies between these requirements and this has to be considered too in the creation of working of this tool.    
 
-#Seminar 2: 
+# Seminar 2: 
 
-###Questions
+### Questions
 
 **1. Boston Matrix?**
 
@@ -219,7 +219,7 @@ According to study there are four strategies for using Boston Matrix. They are:
 	3. Try to reduce the investment and simultaneously increase cash flow and profit
 	4. Stop investing to remove dogs and start investing in other units which are benefitial for the organization.
 
-###Summaries:
+### Summaries:
 
 **Paper 1:**
 
@@ -296,9 +296,9 @@ In this particular study singular requirements are calculated using a specified 
 
 From the present paper draws the attention to most important aspect of release planning that is the interdependencies, it has specified the concept of requirement coupling and release coupling could be most important while considering the interdependencies during the release planning. It also evident that visualisation techniques as a powerful means for partitioning the requirements. For this very particular reason dependencies are most important to consider during the release planning.
 
-#Seminar 3: 
+# Seminar 3: 
 
-###Summaries:
+### Summaries:
 
 **Paper 1:**
 
@@ -350,9 +350,9 @@ While these are some other processes and methods are also listed in this article
 3. Commenting out obsolete code and updating requirements documents accordingly.
 4. Using requirements validation techniques.
 
-###Seminar 4: 
+### Seminar 4: 
 
-####Questions: 
+#### Questions: 
 
 **1. What tools are available for requirements management?**
 
@@ -404,5 +404,5 @@ Some challenges identified for requirements breakdown are with the requirements 
 
 Breaking the requirements led to the development of smaller units and these units are proving challenging for the companies to carry out the testing. Hence these must be combined to form features. Using CI on demand product delivery is possible but the number of integrations done before that has to generalised and finalised.
 
-####References:
+#### References:
 [1]A. Birk and G. Heller, "List of Requirements Management Tools | The Making of Software", Makingofsoftware.com, 2016. [Online]. Available: http://makingofsoftware.com/resources/list-of-rm-tools. [Accessed: 11- Jan- 2016].
